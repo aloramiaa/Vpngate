@@ -37,27 +37,5 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           content=$(head -c 1800 output.txt)  # Discord limit: 2000 chars
-          payload=$(cat <<EOF
-{
-  "embeds": [
-    {
-      "title": "VPNGate IP Check Results",
-      "description": "Here are the latest results of the VPNGate IP Check.",
-      "color": 5814783,  # Set a nice color for the embed
-      "fields": [
-        {
-          "name": "IP Address",
-          "value": "${content}",
-          "inline": false
-        }
-      ],
-      "footer": {
-        "text": "VPNGate Check | ${GITHUB_SHA}",
-        "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-      }
-    }
-  ]
-}
-EOF
-)
+          payload="{\"embeds\": [{\"title\": \"VPNGate IP Check Results\", \"description\": \"Here are the latest results of the VPNGate IP Check.\", \"color\": 5814783, \"fields\": [{\"name\": \"IP Address\", \"value\": \"${content}\", \"inline\": false}], \"footer\": {\"text\": \"VPNGate Check | ${GITHUB_SHA}\", \"icon_url\": \"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\"}}]}"
           curl -H "Content-Type: application/json" -X POST -d "$payload" "$DISCORD_WEBHOOK"
