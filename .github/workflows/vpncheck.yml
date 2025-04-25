@@ -33,10 +33,16 @@ jobs:
           python check_vpn.py > output.txt
 
       - name: Commit and push results
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add .
           git diff --cached --quiet || git commit -m "Add latest VPNGate IP results"
           git push origin main
+
 
       - name: Send results to Discord
         env:
