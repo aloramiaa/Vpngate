@@ -3,7 +3,7 @@ name: VPNGate IP Check
 on:
   schedule:
     - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   vpngate-check:
@@ -32,22 +32,32 @@ jobs:
         run: |
           python check_vpn.py > output.txt
 
-      - name: Commit and push results
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
-          git add .
-          git diff --cached --quiet || git commit -m "Add latest VPNGate IP results"
-          git push origin main
-
-
-      - name: Send results to Discord
+      - name: Send stylish results to Discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
           content=$(head -c 1800 output.txt)  # Discord limit: 2000 chars
-          echo "{\"content\": \"\`\`\`${content}\`\`\`\"}" > payload.json
-          curl -H "Content-Type: application/json" -X POST -d @payload.json $DISCORD_WEBHOOK
+          payload=$(cat <<EOF
+{
+  "embeds": [
+    {
+      "title": "VPNGate IP Check Results",
+      "description": "Here are the latest results of the VPNGate IP Check.",
+      "color": 5814783,  # Set a nice color for the embed
+      "fields": [
+        {
+          "name": "IP Address",
+          "value": "${content}",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "VPNGate Check | ${GITHUB_SHA}",
+        "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      }
+    }
+  ]
+}
+EOF
+)
+          curl -H "Content-Type: application/json" -X POST -d "$payload" "$DISCORD_WEBHOOK"
