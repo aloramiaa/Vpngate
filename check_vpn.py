@@ -2,11 +2,18 @@ import requests
 import csv
 import io
 import socket
+import base64
+import os
 from datetime import datetime
 
 API_KEY = '896357-7r961n-0t9072-j922c6'
 VPNGATE_URL = 'http://www.vpngate.net/api/iphone/'
 FILTER_COUNTRY = None  # e.g., set to "JP" to only show Japan-based IPs
+
+# Make all dirs upfront
+os.makedirs("configs", exist_ok=True)
+os.makedirs("reports", exist_ok=True)
+os.makedirs("html", exist_ok=True)
 
 def fetch_vpngate_csv():
     response = requests.get(VPNGATE_URL)
@@ -30,58 +37,46 @@ def resolve_hostname(ip):
     except:
         return "N/A"
 
-def generate_markdown(clean_ips, summary, date_str):
-    filename = f"IPs_No_Proxy_{date_str}.md"
+def generate_markdown(clean_ips, summary, timestamp):
+    filename = f"reports/IPs_No_Proxy_{timestamp}.md"
     with open(filename, 'w', encoding="utf-8") as file:
         file.write(f"# Clean VPNGate IPs\n")
         file.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         file.write(f"**Summary:** {summary}\n\n")
         file.write("| # | IP Address | Hostname | Type | Country | Provider |\n")
         file.write("|---|------------|----------|------|---------|----------|\n")
-
         for i, ip_info in enumerate(clean_ips, start=1):
             file.write(f"| {i} | {ip_info['ip']} | {ip_info['hostname']} | {ip_info['type']} | {ip_info['country']} | {ip_info['provider']} |\n")
-    print(f"📄 Saved markdown report to {filename}")
-
-    # also keep a latest.md
-    with open("latest.md", "w", encoding="utf-8") as latest:
-        latest.write(open(filename, "r", encoding="utf-8").read())
+    print(f"📄 Saved clean IPs to {filename}")
     return filename
 
-def generate_html_index(clean_ips, summary, date_str):
-    filename = f"index_{date_str}.html"
-    with open(filename, 'w', encoding="utf-8") as file:
-        file.write(f"""<!DOCTYPE html>
-<html lang="en">
+def generate_html_index(clean_ips, timestamp):
+    filename = f"html/index_{timestamp}.html"
+    with open(filename, "w", encoding="utf-8") as html:
+        html.write(f"""
+<!DOCTYPE html>
+<html>
 <head>
 <meta charset="UTF-8">
-<title>VPNGate Clean IPs - {date_str}</title>
+<title>VPNGate Clean IPs - {timestamp}</title>
 <style>
-    body {{ font-family: Arial, sans-serif; margin: 20px; }}
-    table {{ border-collapse: collapse; width: 100%; }}
-    th, td {{ border: 1px solid #ccc; padding: 8px; text-align: left; }}
-    th {{ background-color: #f2f2f2; }}
+body {{ font-family: Arial; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th, td {{ border: 1px solid #ccc; padding: 8px; }}
+th {{ background: #eee; }}
 </style>
 </head>
 <body>
-<h1>Clean VPNGate IPs</h1>
+<h2>VPNGate Clean IPs (No Proxy)</h2>
 <p>Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
-<p><strong>Summary:</strong> {summary}</p>
 <table>
-<tr><th>#</th><th>IP Address</th><th>Hostname</th><th>Type</th><th>Country</th><th>Provider</th></tr>
+<tr><th>IP</th><th>Country</th><th>Provider</th><th>Download</th></tr>
 """)
-        for i, ip_info in enumerate(clean_ips, start=1):
-            file.write(f"<tr><td>{i}</td><td>{ip_info['ip']}</td><td>{ip_info['hostname']}</td>"
-                       f"<td>{ip_info['type']}</td><td>{ip_info['country']}</td><td>{ip_info['provider']}</td></tr>")
-        file.write("""
-</table>
-</body>
-</html>""")
-    print(f"🌐 Saved HTML index to {filename}")
-
-    # also keep a latest.html
-    with open("latest.html", "w", encoding="utf-8") as latest:
-        latest.write(open(filename, "r", encoding="utf-8").read())
+        for ip_info in clean_ips:
+            html.write(f"<tr><td>{ip_info['ip']}</td><td>{ip_info['country']}</td><td>{ip_info['provider']}</td>"
+                       f"<td><a href='../configs/{ip_info['ip']}.ovpn'>Download OVPN</a></td></tr>\n")
+        html.write("</table></body></html>")
+    print(f"📄 Created {filename} with download links.")
     return filename
 
 def update_readme(latest_md_file, latest_html_file):
@@ -90,20 +85,18 @@ def update_readme(latest_md_file, latest_html_file):
         f"- [Markdown Report]({latest_md_file})\n",
         f"- [HTML Index]({latest_html_file})\n\n"
     ]
-    # Read existing README if exists
     try:
         with open("README.md", "r", encoding="utf-8") as f:
             old_content = f.readlines()
     except FileNotFoundError:
         old_content = []
 
-    # Write updated content
     with open("README.md", "w", encoding="utf-8") as f:
         f.writelines(lines + old_content)
-    print("✅ Updated README.md with the latest report links.")
+    print("✅ Updated README.md with latest report links.")
 
 def main():
-    date_str = datetime.now().strftime('%Y%m%d')
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     csv_file = fetch_vpngate_csv()
     reader = csv.reader(csv_file)
     clean_ips = []
@@ -112,9 +105,11 @@ def main():
     print("🔍 Starting full scan...\n")
 
     for row in reader:
-        if len(row) < 2:
+        if len(row) < 15:
             continue
+
         ip = row[1]
+        ovpn_b64 = row[14]
         total += 1
 
         result = check_ip(ip)
@@ -132,6 +127,15 @@ def main():
                     "country": country,
                     "provider": result.get("provider", "Unknown")
                 }
+
+                if ovpn_b64:
+                    try:
+                        with open(f"configs/{ip}.ovpn", "wb") as ovpn_file:
+                            ovpn_file.write(base64.b64decode(ovpn_b64))
+                        print(f"[✔] Saved OVPN for {ip}")
+                    except Exception as e:
+                        print(f"[!] Failed to save OVPN for {ip}: {e}")
+
                 clean_ips.append(ip_info)
                 print(f"[✔] {ip} | {hostname} | {ip_info['type']} | {country}")
             else:
@@ -144,9 +148,11 @@ def main():
     summary = f"Clean: {len(clean_ips)}, Proxies: {proxy}, Errors: {errors}, Total Checked: {total}"
     print(f"\n✅ Finished. {summary}")
 
-    md_file = generate_markdown(clean_ips, summary, date_str)
-    html_file = generate_html_index(clean_ips, summary, date_str)
-    update_readme(md_file, html_file)
+    latest_md_file = generate_markdown(clean_ips, summary, timestamp)
+    latest_html_file = generate_html_index(clean_ips, timestamp)
+    update_readme(latest_md_file, latest_html_file)
+
+    print(f"✨ HTML also saved as: {latest_html_file}")
 
 if __name__ == "__main__":
     main()
