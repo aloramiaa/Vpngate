@@ -2,8 +2,8 @@ name: VPNGate IP Check
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:       # Allow manual trigger
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
 
 jobs:
   vpngate-check:
@@ -19,22 +19,19 @@ jobs:
           python-version: '3.8'
 
       - name: Install dependencies
+        run: pip install requests
+
+      - name: Set up Git to use GITHUB_TOKEN
         run: |
-          pip install requests
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
-      - name: Run VPNGate IP Check
+      - name: Run VPNGate IP Check and Generate Reports
+        run: python check_vpn.py
+
+      - name: Commit and push changes
         run: |
-          python check_vpn.py
-
-      - name: Commit and push results
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          git add *.md
-          git add *.html
-          git add configs/
-          git add README.md
-
-          git commit -m "🤖 VPNGate update: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git add .
+          git commit -m "🤖 VPNGate update: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin main
