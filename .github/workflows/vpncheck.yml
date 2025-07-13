@@ -22,47 +22,19 @@ jobs:
         run: |
           pip install requests
 
-      - name: Pull latest changes from main
+      - name: Run VPNGate IP Check
+        run: |
+          python check_vpn.py
+
+      - name: Commit and push results
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git pull origin main --rebase
 
-      - name: Run VPNGate IP Check and Generate Reports
-        run: |
-          python check_vpn.py > output.txt
+          git add *.md
+          git add *.html
+          git add configs/
+          git add README.md
 
-      - name: Send stylish results to Discord
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: |
-          # Read the first 1800 characters from the output.txt file
-          content=$(head -c 1800 output.txt)
-          
-          # Create the payload, ensuring JSON formatting
-          payload=$(jq -n \
-            --arg content "$content" \
-            --arg sha "${GITHUB_SHA}" \
-            '{
-              embeds: [
-                {
-                  title: "VPNGate IP Check Results",
-                  description: "Here are the latest results of the VPNGate IP Check.",
-                  color: 5814783,
-                  fields: [
-                    {
-                      name: "IP Address",
-                      value: $content,
-                      inline: false
-                    }
-                  ],
-                  footer: {
-                    text: "VPNGate Check | \($sha)",
-                    icon_url: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                  }
-                }
-              ]
-            }')
-          
-          # Send the valid JSON payload to Discord
-          curl -H "Content-Type: application/json" -X POST -d "$payload" "$DISCORD_WEBHOOK"
+          git commit -m "🤖 VPNGate update: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
