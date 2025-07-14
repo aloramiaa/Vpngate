@@ -1,121 +1,33 @@
-name: Ultra VPN Validator
+name: Validate VPN Configs
 
 on:
+  push:
+  workflow_dispatch:  # manual trigger
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # every 12 hours
 
 jobs:
-  ultra-validate:
+  validate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Checkout
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: 🛠 Install OpenVPN, jq, curl
-        run: |
-          sudo apt update
-          sudo apt install -y openvpn jq curl
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
 
-      - name: 🔍 Ultra VPN Validation + JSON + Stylish README
-        run: |
-          mkdir -p configs/checked configs/failed
+    - name: Install dependencies
+      run: pip install requests
 
-          summary_good=0
-          summary_proxy=0
-          summary_failed=0
-          count=1
+    - name: Run validation script
+      run: python validate_configs.py
 
-          echo "# 🌐 Ultra VPN Validation Report" > configs/README.md
-          echo "⏰ Run: $(date '+%Y-%m-%d %H:%M:%S')" >> configs/README.md
-          echo "" >> configs/README.md
-          echo "| # | IP | ASN | Country | Provider | Threat Score | Status |" >> configs/README.md
-          echo "|---|----|-----|---------|----------|--------------|--------|" >> configs/README.md
-
-          echo "[" > configs/report.json
-
-          for ovpn in configs/*.ovpn; do
-            echo "🔍 Testing $ovpn"
-            sudo timeout 25s openvpn --config "$ovpn" --daemon
-            sleep 8
-
-            ip=$(curl -s https://api.ipify.org?format=json | jq -r .ip || true)
-            sudo pkill openvpn || true
-
-            if [[ -z "$ip" || "$ip" == "null" ]]; then
-              echo "❌ No IP. VPN likely failed."
-              mv "$ovpn" configs/failed/
-              echo "| $count | n/a | n/a | 🚫 | n/a | n/a | ❌ Failed |" >> configs/README.md
-              echo "{ \"ip\": \"n/a\", \"status\": \"failed\" }," >> configs/report.json
-              summary_failed=$((summary_failed+1))
-              count=$((count+1))
-              continue
-            fi
-
-            check=$(curl -s "http://proxycheck.io/v2/$ip?key=896357-7r961n-0t9072-j922c6&vpn=1&asn=1&node=1&inf=1&risk=1")
-            proxy=$(echo "$check" | jq -r ".\"$ip\".proxy")
-            asn=$(echo "$check" | jq -r ".\"$ip\".asn")
-            country=$(echo "$check" | jq -r ".\"$ip\".isocode")
-            provider=$(echo "$check" | jq -r ".\"$ip\".provider")
-            risk=$(echo "$check" | jq -r ".\"$ip\".risk")
-
-            [[ "$risk" == "null" ]] && risk="0"
-
-            # More flags
-            flag="🌎"
-            case "$country" in
-              US) flag="🇺🇸";;
-              JP) flag="🇯🇵";;
-              IN) flag="🇮🇳";;
-              DE) flag="🇩🇪";;
-              RU) flag="🇷🇺";;
-              CN) flag="🇨🇳";;
-              GB) flag="🇬🇧";;
-              FR) flag="🇫🇷";;
-              IT) flag="🇮🇹";;
-              ES) flag="🇪🇸";;
-              PL) flag="🇵🇱";;
-              NL) flag="🇳🇱";;
-              CA) flag="🇨🇦";;
-            esac
-
-            if [[ "$proxy" == "no" ]]; then
-              echo "✅ $ip clean. Risk $risk"
-              mv "$ovpn" configs/checked/
-              echo "| $count | [$ip](https://ipinfo.io/$ip) | $asn | $flag $country | $provider | 🔥 $risk | ✅ Safe |" >> configs/README.md
-              echo "{ \"ip\": \"$ip\", \"asn\": \"$asn\", \"country\": \"$country\", \"provider\": \"$provider\", \"risk\": \"$risk\", \"status\": \"safe\" }," >> configs/report.json
-              summary_good=$((summary_good+1))
-            else
-              echo "🚫 $ip flagged proxy. Risk $risk"
-              mv "$ovpn" configs/failed/
-              echo "| $count | [$ip](https://ipinfo.io/$ip) | $asn | $flag $country | $provider | 🚩 $risk | 🚫 Proxy |" >> configs/README.md
-              echo "{ \"ip\": \"$ip\", \"asn\": \"$asn\", \"country\": \"$country\", \"provider\": \"$provider\", \"risk\": \"$risk\", \"status\": \"proxy\" }," >> configs/report.json
-              summary_proxy=$((summary_proxy+1))
-            fi
-            count=$((count+1))
-            sleep 2
-          done
-
-          # JSON fix trailing comma
-          sed -i '$ s/,$//' configs/report.json
-          echo "]" >> configs/report.json
-
-          echo "" >> configs/README.md
-          echo "## 📝 Summary" >> configs/README.md
-          echo "- ✅ Clean: $summary_good" >> configs/README.md
-          echo "- 🚫 Proxy: $summary_proxy" >> configs/README.md
-          echo "- ❌ Failed Connections: $summary_failed" >> configs/README.md
-
-          # Move good back
-          mv configs/checked/* configs/ || true
-          rmdir configs/checked || true
-
-      - name: 🚀 Commit updated README + JSON + moved configs
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add configs/
-          git commit -m "✨ Ultra VPN report: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
-        continue-on-error: true
+    - name: Commit changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "🤖 Auto validate VPN configs on $(date)"
+        git push
