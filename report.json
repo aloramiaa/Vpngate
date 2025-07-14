@@ -1,20 +1,10 @@
 {
   "summary": {
-    "total": 12,
+    "total": 7,
     "clean": 7,
-    "flagged": 5
+    "flagged": 0
   },
   "records": [
-    {
-      "file": "178.155.49.126.ovpn",
-      "ip": "178.155.49.126",
-      "asn": "AS8359",
-      "provider": "MTS PJSC",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
     {
       "file": "133.123.140.59.ovpn",
       "ip": "133.123.140.59",
@@ -34,16 +24,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "159.224.10.235.ovpn",
-      "ip": "159.224.10.235",
-      "asn": "AS13188",
-      "provider": "CONTENT DELIVERY NETWORK LTD",
-      "country": "UA",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "219.249.108.195.ovpn",
@@ -86,16 +66,6 @@
       "proxy": "no"
     },
     {
-      "file": "178.34.29.100.ovpn",
-      "ip": "178.34.29.100",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "123.248.67.84.ovpn",
       "ip": "123.248.67.84",
       "asn": "AS38091",
@@ -104,26 +74,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "37.21.84.27.ovpn",
-      "ip": "37.21.84.27",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
-      "file": "188.113.129.53.ovpn",
-      "ip": "188.113.129.53",
-      "asn": "AS51004",
-      "provider": "Sakhalin Cable Telesystems Ltd",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     }
   ]
 }
