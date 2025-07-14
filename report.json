@@ -1,8 +1,8 @@
 {
   "summary": {
     "total": 5,
-    "clean": 5,
-    "flagged": 0
+    "clean": 3,
+    "flagged": 2
   },
   "records": [
     {
@@ -31,9 +31,9 @@
       "asn": "AS12389",
       "provider": "PJSC Rostelecom",
       "country": "RU",
-      "risk": 0,
-      "type": "Residential",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "221.143.53.34.ovpn",
@@ -41,9 +41,9 @@
       "asn": "AS9318",
       "provider": "SK Broadband Co Ltd",
       "country": "KR",
-      "risk": 0,
-      "type": "Residential",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "188.113.129.53.ovpn",
