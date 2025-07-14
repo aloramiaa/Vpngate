@@ -1,0 +1,77 @@
+name: Validate VPN Configs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  validate-vpn:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up OpenVPN & tools
+        run: |
+          sudo apt update
+          sudo apt install -y openvpn jq curl
+
+      - name: Validate each OVPN file and build markdown table
+        run: |
+          mkdir -p configs/checked
+          echo "# VPN Validation Report" > configs/README.md
+          echo "Run: $(date '+%Y-%m-%d %H:%M:%S')" >> configs/README.md
+          echo "" >> configs/README.md
+          echo "| # | IP | ASN | Country | Provider |" >> configs/README.md
+          echo "|---|----|-----|---------|----------|" >> configs/README.md
+
+          count=1
+
+          for ovpn in configs/*.ovpn; do
+            echo "🔍 Testing $ovpn ..."
+            sudo timeout 20s openvpn --config "$ovpn" --daemon
+            sleep 8
+
+            ip=$(curl -s https://api.ipify.org?format=json | jq -r .ip || true)
+            sudo pkill openvpn || true
+
+            if [[ -z "$ip" || "$ip" == "null" ]]; then
+              echo "❌ No IP (connection failed), removing $ovpn"
+              rm -f "$ovpn"
+              continue
+            fi
+
+            echo "🌐 Got external IP: $ip"
+
+            check=$(curl -s "http://proxycheck.io/v2/$ip?key=896357-7r961n-0t9072-j922c6&vpn=1&asn=1&node=1&inf=1")
+            proxy=$(echo "$check" | jq -r ".\"$ip\".proxy")
+            asn=$(echo "$check" | jq -r ".\"$ip\".asn")
+            country=$(echo "$check" | jq -r ".\"$ip\".isocode")
+            provider=$(echo "$check" | jq -r ".\"$ip\".provider")
+
+            if [[ "$proxy" == "no" ]]; then
+              echo "✅ $ip clean. Keeping $ovpn"
+              echo "| $count | $ip | $asn | $country | $provider |" >> configs/README.md
+              mv "$ovpn" configs/checked/
+              count=$((count+1))
+            else
+              echo "🚫 $ip detected as proxy, removing $ovpn"
+              rm -f "$ovpn"
+            fi
+
+            sleep 3
+          done
+
+          mv configs/checked/* configs/ || true
+          rmdir configs/checked || true
+
+      - name: Commit and push validated configs with updated README
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add configs/
+          git commit -m "🛡 VPN validation report $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        continue-on-error: true
