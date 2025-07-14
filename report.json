@@ -1,16 +1,86 @@
 {
   "summary": {
-    "total": 5,
-    "clean": 3,
-    "flagged": 2
+    "total": 12,
+    "clean": 7,
+    "flagged": 5
   },
   "records": [
+    {
+      "file": "178.155.49.126.ovpn",
+      "ip": "178.155.49.126",
+      "asn": "AS8359",
+      "provider": "MTS PJSC",
+      "country": "RU",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "133.123.140.59.ovpn",
+      "ip": "133.123.140.59",
+      "asn": "AS7522",
+      "provider": "STNet, Incorporated",
+      "country": "JP",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "95.68.151.93.ovpn",
+      "ip": "95.68.151.93",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
     {
       "file": "159.224.10.235.ovpn",
       "ip": "159.224.10.235",
       "asn": "AS13188",
       "provider": "CONTENT DELIVERY NETWORK LTD",
       "country": "UA",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "219.249.108.195.ovpn",
+      "ip": "219.249.108.195",
+      "asn": "AS9318",
+      "provider": "SK Broadband Co Ltd",
+      "country": "KR",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
+      "file": "121.128.123.186.ovpn",
+      "ip": "121.128.123.186",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "183.107.59.166.ovpn",
+      "ip": "183.107.59.166",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "180.20.37.94.ovpn",
+      "ip": "180.20.37.94",
+      "asn": "AS4713",
+      "provider": "NTT Communications Corporation",
+      "country": "JP",
       "risk": 0,
       "type": "Business",
       "proxy": "no"
@@ -21,26 +91,26 @@
       "asn": "AS12389",
       "provider": "PJSC Rostelecom",
       "country": "RU",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
-    },
-    {
-      "file": "91.147.25.236.ovpn",
-      "ip": "91.147.25.236",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
       "risk": 66,
       "type": "Shadowsocks",
       "proxy": "yes"
     },
     {
-      "file": "221.143.53.34.ovpn",
-      "ip": "221.143.53.34",
-      "asn": "AS9318",
-      "provider": "SK Broadband Co Ltd",
+      "file": "123.248.67.84.ovpn",
+      "ip": "123.248.67.84",
+      "asn": "AS38091",
+      "provider": "LG HelloVision Corp.",
       "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "37.21.84.27.ovpn",
+      "ip": "37.21.84.27",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
       "risk": 66,
       "type": "Shadowsocks",
       "proxy": "yes"
@@ -51,9 +121,9 @@
       "asn": "AS51004",
       "provider": "Sakhalin Cable Telesystems Ltd",
       "country": "RU",
-      "risk": 0,
-      "type": "Residential",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     }
   ]
 }
