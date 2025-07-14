@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "total": 5,
+    "clean": 5,
+    "flagged": 0
+  },
+  "records": [
+    {
+      "file": "159.224.10.235.ovpn",
+      "ip": "159.224.10.235",
+      "asn": "AS13188",
+      "provider": "CONTENT DELIVERY NETWORK LTD",
+      "country": "UA",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "178.34.29.100.ovpn",
+      "ip": "178.34.29.100",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "91.147.25.236.ovpn",
+      "ip": "91.147.25.236",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
+      "file": "221.143.53.34.ovpn",
+      "ip": "221.143.53.34",
+      "asn": "AS9318",
+      "provider": "SK Broadband Co Ltd",
+      "country": "KR",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
+      "file": "188.113.129.53.ovpn",
+      "ip": "188.113.129.53",
+      "asn": "AS51004",
+      "provider": "Sakhalin Cable Telesystems Ltd",
+      "country": "RU",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    }
+  ]
+}
