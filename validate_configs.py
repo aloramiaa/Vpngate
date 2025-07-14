@@ -61,7 +61,12 @@ def main():
             "proxy": data.get("proxy", "N/A")
         }
 
-        if data.get("proxy") == "yes" or int(data.get("risk", 0)) > 10:
+        try:
+            risk_value = int(data.get("risk", 0))
+        except ValueError:
+            risk_value = 0
+
+        if data.get("proxy") == "yes" or risk_value > 10:
             print(f"🚫 {ip} flagged. Risk {data.get('risk')}")
             shutil.move(fpath, os.path.join(FAILED_DIR, fname))
             summary["flagged"] += 1
@@ -70,25 +75,27 @@ def main():
 
         records.append(record)
 
-    # JSON report
+    # JSON report (includes all)
     with open("report.json", "w") as f:
         json.dump({"summary": summary, "records": records}, f, indent=2)
     print("📄 Saved report.json")
 
-    # Markdown report
+    # Markdown report (excludes proxy=yes)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(f"# 🚀 VPNGate Config Report\n")
         f.write(f"_Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}_\n\n")
         f.write(f"**Summary:** ✅ {summary['clean']} clean | 🚫 {summary['flagged']} flagged | 🔍 {summary['total']} total\n\n")
-        f.write(f"## Details\n")
+        f.write(f"## Details (excluding detected proxies)\n")
         f.write(f"| File | IP | ASN | Provider | Country | Type | Risk | Proxy |\n")
         f.write(f"|------|----|-----|----------|---------|------|------|-------|\n")
         for r in records:
+            if r["proxy"] == "yes":
+                continue  # skip proxies
             f.write(f"| {r['file']} | {r['ip']} | {r['asn']} | {r['provider']} | {r['country']} | {r['type']} | {r['risk']} | {r['proxy']} |\n")
         f.write("\n")
         f.write(f"**Full JSON:** See [report.json](./report.json)\n")
 
-    print("✅ README.md updated with stylish table.")
+    print("✅ README.md updated without proxy=yes entries.")
 
 if __name__ == "__main__":
     main()
