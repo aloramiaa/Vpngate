@@ -1,7 +1,7 @@
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-15 10:50:03_
+_Generated on: 2025-07-15 12:32:53_
 
-**Summary:** ✅ 7 clean | 🚫 3 flagged | 🔍 10 total
+**Summary:** ✅ 7 clean | 🚫 0 flagged | 🔍 7 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |

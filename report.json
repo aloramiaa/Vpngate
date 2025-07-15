@@ -1,8 +1,8 @@
 {
   "summary": {
-    "total": 10,
+    "total": 7,
     "clean": 7,
-    "flagged": 3
+    "flagged": 0
   },
   "records": [
     {
@@ -14,26 +14,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "77.35.240.91.ovpn",
-      "ip": "77.35.240.91",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
-      "file": "133.123.140.59.ovpn",
-      "ip": "133.123.140.59",
-      "asn": "AS7522",
-      "provider": "STNet, Incorporated",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "95.68.151.93.ovpn",
@@ -64,16 +44,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "219.249.108.195.ovpn",
-      "ip": "219.249.108.195",
-      "asn": "AS9318",
-      "provider": "SK Broadband Co Ltd",
-      "country": "KR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "121.128.123.186.ovpn",
