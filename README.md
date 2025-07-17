@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250716_182255.md)
-- [HTML Index](html/index_20250716_182255.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250716_123439.md)
-- [HTML Index](html/index_20250716_123439.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-16 12:33:18_
+_Generated on: 2025-07-17 01:17:57_
 
-**Summary:** ✅ 10 clean | 🚫 3 flagged | 🔍 13 total
+**Summary:** ✅ 15 clean | 🚫 5 flagged | 🔍 20 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -21,8 +13,13 @@ _Generated on: 2025-07-16 12:33:18_
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
+| 89.31.38.25.ovpn | 89.31.38.25 | AS43148 | MTS PJSC | RU | Residential | 0 | no |
 | 175.124.35.173.ovpn | 175.124.35.173 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
-| 221.114.150.151.ovpn | 221.114.150.151 | AS17506 | ARTERIA Networks Corporation | JP | Residential | 0 | no |
+| 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
+| 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 122.102.176.84.ovpn | 122.102.176.84 | AS9617 | JCOM Co., Ltd. | JP | Business | 0 | no |
 
 **Full JSON:** See [report.json](./report.json)
