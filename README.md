@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250717_062439.md)
-- [HTML Index](html/index_20250717_062439.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250717_012021.md)
-- [HTML Index](html/index_20250717_012021.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-17 01:17:57_
+_Generated on: 2025-07-17 12:32:21_
 
-**Summary:** ✅ 15 clean | 🚫 5 flagged | 🔍 20 total
+**Summary:** ✅ 15 clean | 🚫 16 flagged | 🔍 31 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |

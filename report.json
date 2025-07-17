@@ -1,10 +1,20 @@
 {
   "summary": {
-    "total": 20,
+    "total": 31,
     "clean": 15,
-    "flagged": 5
+    "flagged": 16
   },
   "records": [
+    {
+      "file": "49.172.15.67.ovpn",
+      "ip": "49.172.15.67",
+      "asn": "AS17858",
+      "provider": "LG POWERCOMM",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
     {
       "file": "126.66.166.174.ovpn",
       "ip": "126.66.166.174",
@@ -16,10 +26,50 @@
       "proxy": "no"
     },
     {
-      "file": "112.69.85.160.ovpn",
-      "ip": "112.69.85.160",
-      "asn": "AS17511",
-      "provider": "OPTAGE Inc.",
+      "file": "184.22.100.81.ovpn",
+      "ip": "184.22.100.81",
+      "asn": "AS133481",
+      "provider": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "country": "TH",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "220.146.136.131.ovpn",
+      "ip": "220.146.136.131",
+      "asn": "AS4685",
+      "provider": "Asahi Net",
+      "country": "JP",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "118.104.255.49.ovpn",
+      "ip": "118.104.255.49",
+      "asn": "AS18126",
+      "provider": "Chubu Telecommunications Company, Inc.",
+      "country": "JP",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "118.37.244.250.ovpn",
+      "ip": "118.37.244.250",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "124.214.77.124.ovpn",
+      "ip": "124.214.77.124",
+      "asn": "AS2516",
+      "provider": "KDDI CORPORATION",
       "country": "JP",
       "risk": 66,
       "type": "Shadowsocks",
@@ -36,6 +86,16 @@
       "proxy": "no"
     },
     {
+      "file": "125.136.67.224.ovpn",
+      "ip": "125.136.67.224",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
       "file": "119.206.61.237.ovpn",
       "ip": "119.206.61.237",
       "asn": "AS4766",
@@ -44,6 +104,26 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "220.126.254.242.ovpn",
+      "ip": "220.126.254.242",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "124.51.86.160.ovpn",
+      "ip": "124.51.86.160",
+      "asn": "AS17858",
+      "provider": "LG POWERCOMM",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "31.163.156.28.ovpn",
@@ -56,16 +136,6 @@
       "proxy": "no"
     },
     {
-      "file": "95.191.228.217.ovpn",
-      "ip": "95.191.228.217",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "79.105.147.254.ovpn",
       "ip": "79.105.147.254",
       "asn": "AS12389",
@@ -74,16 +144,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "73.148.149.14.ovpn",
-      "ip": "73.148.149.14",
-      "asn": "AS7922",
-      "provider": "Comcast Cable Communications, LLC",
-      "country": "US",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "2.7.146.220.ovpn",
@@ -106,11 +166,21 @@
       "proxy": "no"
     },
     {
-      "file": "118.241.97.51.ovpn",
-      "ip": "118.241.97.51",
-      "asn": "AS2527",
-      "provider": "Sony Network Communications Inc.",
+      "file": "59.138.46.203.ovpn",
+      "ip": "59.138.46.203",
+      "asn": "AS2516",
+      "provider": "KDDI CORPORATION",
       "country": "JP",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "211.205.161.205.ovpn",
+      "ip": "211.205.161.205",
+      "asn": "AS9318",
+      "provider": "SK Broadband Co Ltd",
+      "country": "KR",
       "risk": 66,
       "type": "Shadowsocks",
       "proxy": "yes"
@@ -156,6 +226,16 @@
       "proxy": "no"
     },
     {
+      "file": "124.38.138.146.ovpn",
+      "ip": "124.38.138.146",
+      "asn": "AS17506",
+      "provider": "ARTERIA Networks Corporation",
+      "country": "JP",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
       "file": "77.79.179.239.ovpn",
       "ip": "77.79.179.239",
       "asn": "AS24955",
@@ -166,11 +246,11 @@
       "proxy": "no"
     },
     {
-      "file": "221.114.150.151.ovpn",
-      "ip": "221.114.150.151",
-      "asn": "AS17506",
-      "provider": "ARTERIA Networks Corporation",
-      "country": "JP",
+      "file": "106.244.202.139.ovpn",
+      "ip": "106.244.202.139",
+      "asn": "AS3786",
+      "provider": "LG DACOM Corporation",
+      "country": "KR",
       "risk": 66,
       "type": "Shadowsocks",
       "proxy": "yes"
@@ -184,6 +264,16 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "202.213.50.125.ovpn",
+      "ip": "202.213.50.125",
+      "asn": "AS23627",
+      "provider": "UEDA CABLE VISION CO.,LTD.",
+      "country": "JP",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "211.199.113.10.ovpn",
@@ -204,6 +294,26 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "175.195.108.70.ovpn",
+      "ip": "175.195.108.70",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "42.115.147.185.ovpn",
+      "ip": "42.115.147.185",
+      "asn": "AS18403",
+      "provider": "FPT Telecom Company",
+      "country": "VN",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     }
   ]
 }
