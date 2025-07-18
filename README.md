@@ -1,20 +1,14 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250717_182321.md)
-- [HTML Index](html/index_20250717_182321.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250717_123336.md)
-- [HTML Index](html/index_20250717_123336.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-17 12:32:21_
+_Generated on: 2025-07-18 01:17:14_
 
-**Summary:** ✅ 15 clean | 🚫 16 flagged | 🔍 31 total
+**Summary:** ✅ 17 clean | 🚫 3 flagged | 🔍 20 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
 | 126.66.166.174.ovpn | 126.66.166.174 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
+| 121.188.32.107.ovpn | 121.188.32.107 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 58.190.52.113.ovpn | 58.190.52.113 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 219.147.27.214.ovpn | 219.147.27.214 | AS4134 | Chinanet | CN | Business | 0 | no |
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
