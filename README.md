@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250719_062237.md)
-- [HTML Index](html/index_20250719_062237.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250719_011733.md)
-- [HTML Index](html/index_20250719_011733.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-19 01:15:17_
+_Generated on: 2025-07-19 12:29:05_
 
-**Summary:** ✅ 22 clean | 🚫 14 flagged | 🔍 36 total
+**Summary:** ✅ 22 clean | 🚫 7 flagged | 🔍 29 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -21,13 +13,13 @@ _Generated on: 2025-07-19 01:15:17_
 | 184.22.231.194.ovpn | 184.22.231.194 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 47.153.190.95.ovpn | 47.153.190.95 | AS5650 | Frontier Communications of America, Inc. | US | Business | 0 | no |
 | 49.228.98.46.ovpn | 49.228.98.46 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 95.154.70.147.ovpn | 95.154.70.147 | AS44724 | Octopusnet LTD | RU | Wireless | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
-| 175.124.35.173.ovpn | 175.124.35.173 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 59.14.117.163.ovpn | 59.14.117.163 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 203.56.146.145.ovpn | 203.56.146.145 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
