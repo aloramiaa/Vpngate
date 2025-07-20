@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250720_062214.md)
-- [HTML Index](html/index_20250720_062214.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250720_012655.md)
-- [HTML Index](html/index_20250720_012655.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-20 01:24:34_
+_Generated on: 2025-07-20 12:29:39_
 
-**Summary:** ✅ 20 clean | 🚫 8 flagged | 🔍 28 total
+**Summary:** ✅ 18 clean | 🚫 16 flagged | 🔍 34 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -27,8 +19,6 @@ _Generated on: 2025-07-20 01:24:34_
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
-| 203.56.146.145.ovpn | 203.56.146.145 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
-| 95.191.47.228.ovpn | 95.191.47.228 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
