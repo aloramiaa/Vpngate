@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250720_182111.md)
-- [HTML Index](html/index_20250720_182111.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250720_123039.md)
-- [HTML Index](html/index_20250720_123039.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-20 12:29:39_
+_Generated on: 2025-07-21 01:21:44_
 
-**Summary:** ✅ 18 clean | 🚫 16 flagged | 🔍 34 total
+**Summary:** ✅ 18 clean | 🚫 5 flagged | 🔍 23 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -25,12 +17,12 @@ _Generated on: 2025-07-20 12:29:39_
 | 47.153.190.95.ovpn | 47.153.190.95 | AS5650 | Frontier Communications of America, Inc. | US | Business | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 118.70.235.131.ovpn | 118.70.235.131 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
+| 61.82.157.46.ovpn | 61.82.157.46 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 122.102.176.84.ovpn | 122.102.176.84 | AS9617 | JCOM Co., Ltd. | JP | Business | 0 | no |
-| 220.148.81.20.ovpn | 220.148.81.20 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
 
 **Full JSON:** See [report.json](./report.json)
