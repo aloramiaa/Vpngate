@@ -1,8 +1,8 @@
 {
   "summary": {
-    "total": 23,
-    "clean": 18,
-    "flagged": 5
+    "total": 20,
+    "clean": 17,
+    "flagged": 3
   },
   "records": [
     {
@@ -16,6 +16,16 @@
       "proxy": "no"
     },
     {
+      "file": "182.230.76.190.ovpn",
+      "ip": "182.230.76.190",
+      "asn": "AS17858",
+      "provider": "LG POWERCOMM",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
       "file": "178.159.82.31.ovpn",
       "ip": "178.159.82.31",
       "asn": "AS12494",
@@ -26,18 +36,8 @@
       "proxy": "no"
     },
     {
-      "file": "119.76.34.216.ovpn",
-      "ip": "119.76.34.216",
-      "asn": "AS17552",
-      "provider": "TRUE INTERNET CORPORATION CO. LTD.",
-      "country": "TH",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
-      "file": "121.152.182.9.ovpn",
-      "ip": "121.152.182.9",
+      "file": "210.204.220.106.ovpn",
+      "ip": "210.204.220.106",
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
@@ -81,9 +81,9 @@
       "asn": "AS2527",
       "provider": "Sony Network Communications Inc.",
       "country": "JP",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "31.163.156.28.ovpn",
@@ -196,16 +196,6 @@
       "proxy": "no"
     },
     {
-      "file": "88.206.81.101.ovpn",
-      "ip": "88.206.81.101",
-      "asn": "AS8369",
-      "provider": "Intersvyaz-2 JSC",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "211.199.113.10.ovpn",
       "ip": "211.199.113.10",
       "asn": "AS4766",
@@ -214,26 +204,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "122.102.176.84.ovpn",
-      "ip": "122.102.176.84",
-      "asn": "AS9617",
-      "provider": "JCOM Co., Ltd.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
-      "file": "220.148.81.20.ovpn",
-      "ip": "220.148.81.20",
-      "asn": "AS10010",
-      "provider": "TOKAI Communications Corporation",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     }
   ]
 }
