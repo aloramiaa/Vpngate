@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250723_062520.md)
-- [HTML Index](html/index_20250723_062520.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250723_012109.md)
-- [HTML Index](html/index_20250723_012109.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-23 01:18:53_
+_Generated on: 2025-07-23 12:33:23_
 
-**Summary:** ✅ 26 clean | 🚫 11 flagged | 🔍 37 total
+**Summary:** ✅ 27 clean | 🚫 0 flagged | 🔍 27 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -22,6 +14,7 @@ _Generated on: 2025-07-23 01:18:53_
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 210.222.199.85.ovpn | 210.222.199.85 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.231.194.ovpn | 184.22.231.194 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 68.230.127.30.ovpn | 68.230.127.30 | AS22773 | Cox Communications Inc. | US | Business | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 47.153.190.95.ovpn | 47.153.190.95 | AS5650 | Frontier Communications of America, Inc. | US | Business | 0 | no |
