@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250724_062458.md)
-- [HTML Index](html/index_20250724_062458.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250724_012024.md)
-- [HTML Index](html/index_20250724_012024.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-24 01:17:59_
+_Generated on: 2025-07-24 12:33:39_
 
-**Summary:** ✅ 30 clean | 🚫 2 flagged | 🔍 32 total
+**Summary:** ✅ 29 clean | 🚫 24 flagged | 🔍 53 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -34,7 +26,6 @@ _Generated on: 2025-07-24 01:17:59_
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 221.71.168.7.ovpn | 221.71.168.7 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
-| 1.21.49.130.ovpn | 1.21.49.130 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 61.82.157.46.ovpn | 61.82.157.46 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
