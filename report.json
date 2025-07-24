@@ -1,8 +1,8 @@
 {
   "summary": {
-    "total": 27,
-    "clean": 27,
-    "flagged": 0
+    "total": 32,
+    "clean": 30,
+    "flagged": 2
   },
   "records": [
     {
@@ -71,9 +71,9 @@
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "184.22.231.194.ovpn",
@@ -116,6 +116,16 @@
       "proxy": "no"
     },
     {
+      "file": "77.82.3.239.ovpn",
+      "ip": "77.82.3.239",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
       "file": "47.153.190.95.ovpn",
       "ip": "47.153.190.95",
       "asn": "AS5650",
@@ -123,6 +133,16 @@
       "country": "US",
       "risk": 0,
       "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "176.8.234.222.ovpn",
+      "ip": "176.8.234.222",
+      "asn": "AS15895",
+      "provider": "\"Kyivstar\" PJSC",
+      "country": "UA",
+      "risk": 0,
+      "type": "Residential",
       "proxy": "no"
     },
     {
@@ -143,6 +163,16 @@
       "country": "JP",
       "risk": 0,
       "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "92.37.244.13.ovpn",
+      "ip": "92.37.244.13",
+      "asn": "AS12389",
+      "provider": "PJSC Rostelecom",
+      "country": "RU",
+      "risk": 0,
+      "type": "Residential",
       "proxy": "no"
     },
     {
@@ -171,6 +201,16 @@
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "221.71.168.7.ovpn",
+      "ip": "221.71.168.7",
+      "asn": "AS17676",
+      "provider": "SoftBank Corp.",
+      "country": "JP",
       "risk": 0,
       "type": "Business",
       "proxy": "no"
@@ -234,6 +274,16 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "122.39.83.234.ovpn",
+      "ip": "122.39.83.234",
+      "asn": "AS17858",
+      "provider": "LG POWERCOMM",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "121.137.159.109.ovpn",
