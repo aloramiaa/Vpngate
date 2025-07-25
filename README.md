@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250724_182332.md)
-- [HTML Index](html/index_20250724_182332.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250724_123457.md)
-- [HTML Index](html/index_20250724_123457.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-24 12:33:39_
+_Generated on: 2025-07-25 01:17:39_
 
-**Summary:** ✅ 29 clean | 🚫 24 flagged | 🔍 53 total
+**Summary:** ✅ 28 clean | 🚫 4 flagged | 🔍 32 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -29,10 +21,10 @@ _Generated on: 2025-07-24 12:33:39_
 | 176.8.234.222.ovpn | 176.8.234.222 | AS15895 | "Kyivstar" PJSC | UA | Residential | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 115.37.48.55.ovpn | 115.37.48.55 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
-| 92.37.244.13.ovpn | 92.37.244.13 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 14.229.214.156.ovpn | 14.229.214.156 | AS45899 | VNPT Corp | VN | Business | 0 | no |
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 118.240.241.171.ovpn | 118.240.241.171 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 221.71.168.7.ovpn | 221.71.168.7 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 61.82.157.46.ovpn | 61.82.157.46 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
@@ -41,7 +33,6 @@ _Generated on: 2025-07-24 12:33:39_
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 126.125.138.230.ovpn | 126.125.138.230 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
 
 **Full JSON:** See [report.json](./report.json)
