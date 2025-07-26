@@ -1,21 +1,14 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250725_182313.md)
-- [HTML Index](html/index_20250725_182313.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250725_123344.md)
-- [HTML Index](html/index_20250725_123344.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-25 12:32:22_
+_Generated on: 2025-07-26 01:16:06_
 
-**Summary:** ✅ 30 clean | 🚫 3 flagged | 🔍 33 total
+**Summary:** ✅ 35 clean | 🚫 4 flagged | 🔍 39 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
 | 103.230.213.253.ovpn | 103.230.213.253 | AS4808 | China Unicom Beijing Province Network | CN | Business | 0 | no |
 | 178.159.82.31.ovpn | 178.159.82.31 | AS12494 | OOO "Post ltd" | RU | Business | 0 | no |
+| 183.80.75.101.ovpn | 183.80.75.101 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 14.39.128.66.ovpn | 14.39.128.66 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
 | 203.170.199.122.ovpn | 203.170.199.122 | AS45458 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Business | 0 | no |
 | 121.166.206.164.ovpn | 121.166.206.164 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -25,6 +18,7 @@ _Generated on: 2025-07-25 12:32:22_
 | 68.230.127.30.ovpn | 68.230.127.30 | AS22773 | Cox Communications Inc. | US | Business | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 1.225.167.39.ovpn | 1.225.167.39 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 77.82.3.239.ovpn | 77.82.3.239 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 47.153.190.95.ovpn | 47.153.190.95 | AS5650 | Frontier Communications of America, Inc. | US | Business | 0 | no |
 | 176.8.234.222.ovpn | 176.8.234.222 | AS15895 | "Kyivstar" PJSC | UA | Residential | 0 | no |
@@ -41,7 +35,10 @@ _Generated on: 2025-07-25 12:32:22_
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 176.208.32.194.ovpn | 176.208.32.194 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
+| 211.114.109.165.ovpn | 211.114.109.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 222.117.164.160.ovpn | 222.117.164.160 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 121.187.234.77.ovpn | 121.187.234.77 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
 
