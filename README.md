@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250726_182120.md)
-- [HTML Index](html/index_20250726_182120.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250726_123036.md)
-- [HTML Index](html/index_20250726_123036.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-26 12:29:43_
+_Generated on: 2025-07-27 01:24:47_
 
-**Summary:** ✅ 32 clean | 🚫 18 flagged | 🔍 50 total
+**Summary:** ✅ 33 clean | 🚫 0 flagged | 🔍 33 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -45,6 +37,7 @@ _Generated on: 2025-07-26 12:29:43_
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.187.234.77.ovpn | 121.187.234.77 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 171.4.232.224.ovpn | 171.4.232.224 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
 
 **Full JSON:** See [report.json](./report.json)
