@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250729_062536.md)
-- [HTML Index](html/index_20250729_062536.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250729_013937.md)
-- [HTML Index](html/index_20250729_013937.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-29 01:27:03_
+_Generated on: 2025-07-29 12:34:39_
 
-**Summary:** ✅ 34 clean | 🚫 6 flagged | 🔍 40 total
+**Summary:** ✅ 32 clean | 🚫 4 flagged | 🔍 36 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -22,7 +14,6 @@ _Generated on: 2025-07-29 01:27:03_
 | 219.147.27.214.ovpn | 219.147.27.214 | AS4134 | Chinanet | CN | Business | 0 | no |
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.231.194.ovpn | 184.22.231.194 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
-| 68.230.127.30.ovpn | 68.230.127.30 | AS22773 | Cox Communications Inc. | US | Business | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 77.82.3.239.ovpn | 77.82.3.239 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
@@ -32,7 +23,6 @@ _Generated on: 2025-07-29 01:27:03_
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 157.147.47.50.ovpn | 157.147.47.50 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 118.240.241.171.ovpn | 118.240.241.171 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 58.92.161.19.ovpn | 58.92.161.19 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 118.240.7.120.ovpn | 118.240.7.120 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 211.253.44.76.ovpn | 211.253.44.76 | AS4766 | Korea Telecom | KR | Business | 0 | no |
