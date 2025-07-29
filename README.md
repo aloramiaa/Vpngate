@@ -1,18 +1,13 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250728_182505.md)
-- [HTML Index](html/index_20250728_182505.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-28 12:34:28_
+_Generated on: 2025-07-29 01:27:03_
 
-**Summary:** ✅ 34 clean | 🚫 11 flagged | 🔍 45 total
+**Summary:** ✅ 34 clean | 🚫 6 flagged | 🔍 40 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
 | 103.230.213.253.ovpn | 103.230.213.253 | AS4808 | China Unicom Beijing Province Network | CN | Business | 0 | no |
 | 178.159.82.31.ovpn | 178.159.82.31 | AS12494 | OOO "Post ltd" | RU | Business | 0 | no |
-| 222.239.115.228.ovpn | 222.239.115.228 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 14.39.128.66.ovpn | 14.39.128.66 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
 | 203.170.199.122.ovpn | 203.170.199.122 | AS45458 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Business | 0 | no |
 | 121.166.206.164.ovpn | 121.166.206.164 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -37,6 +32,7 @@ _Generated on: 2025-07-28 12:34:28_
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 176.208.32.194.ovpn | 176.208.32.194 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
+| 113.22.248.42.ovpn | 113.22.248.42 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 95.68.70.22.ovpn | 95.68.70.22 | AS12578 | SIA Tet | LV | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
 | 211.114.109.165.ovpn | 211.114.109.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
