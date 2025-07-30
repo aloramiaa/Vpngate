@@ -1,8 +1,8 @@
 {
   "summary": {
-    "total": 37,
-    "clean": 33,
-    "flagged": 4
+    "total": 36,
+    "clean": 34,
+    "flagged": 2
   },
   "records": [
     {
@@ -24,6 +24,16 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "118.174.112.214.ovpn",
+      "ip": "118.174.112.214",
+      "asn": "AS23969",
+      "provider": "TOT Public Company Limited",
+      "country": "TH",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "14.39.128.66.ovpn",
@@ -64,26 +74,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "181.224.87.67.ovpn",
-      "ip": "181.224.87.67",
-      "asn": "AS262462",
-      "provider": "Aranet Comunicacao Ltda",
-      "country": "BR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
-      "file": "91.147.11.139.ovpn",
-      "ip": "91.147.11.139",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "219.147.27.214.ovpn",
@@ -196,16 +186,6 @@
       "proxy": "no"
     },
     {
-      "file": "157.147.47.50.ovpn",
-      "ip": "157.147.47.50",
-      "asn": "AS2527",
-      "provider": "Sony Network Communications Inc.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "121.128.123.186.ovpn",
       "ip": "121.128.123.186",
       "asn": "AS4766",
@@ -234,16 +214,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "211.253.44.76.ovpn",
-      "ip": "211.253.44.76",
-      "asn": "AS4766",
-      "provider": "Korea Telecom",
-      "country": "KR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "61.82.157.46.ovpn",
@@ -344,6 +314,26 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "24.4.124.3.ovpn",
+      "ip": "24.4.124.3",
+      "asn": "AS7922",
+      "provider": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
+      "file": "42.118.251.85.ovpn",
+      "ip": "42.118.251.85",
+      "asn": "AS18403",
+      "provider": "FPT Telecom Company",
+      "country": "VN",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "211.199.113.10.ovpn",

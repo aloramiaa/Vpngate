@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250730_062653.md)
-- [HTML Index](html/index_20250730_062653.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250730_012200.md)
-- [HTML Index](html/index_20250730_012200.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-30 01:19:39_
+_Generated on: 2025-07-30 12:34:29_
 
-**Summary:** ✅ 33 clean | 🚫 4 flagged | 🔍 37 total
+**Summary:** ✅ 34 clean | 🚫 2 flagged | 🔍 36 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -44,6 +36,7 @@ _Generated on: 2025-07-30 01:19:39_
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
 | 211.114.109.165.ovpn | 211.114.109.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 24.4.124.3.ovpn | 24.4.124.3 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 92.37.143.1.ovpn | 92.37.143.1 | AS12389 | PJSC Rostelecom | RU | Wireless | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
