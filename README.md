@@ -1,24 +1,19 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250731_182446.md)
-- [HTML Index](html/index_20250731_182446.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250731_123347.md)
-- [HTML Index](html/index_20250731_123347.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-07-31 12:32:11_
+_Generated on: 2025-08-01 01:26:45_
 
-**Summary:** ✅ 34 clean | 🚫 18 flagged | 🔍 52 total
+**Summary:** ✅ 37 clean | 🚫 6 flagged | 🔍 43 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
 | 103.230.213.253.ovpn | 103.230.213.253 | AS4808 | China Unicom Beijing Province Network | CN | Business | 0 | no |
 | 178.159.82.31.ovpn | 178.159.82.31 | AS12494 | OOO "Post ltd" | RU | Business | 0 | no |
+| 134.19.154.147.ovpn | 134.19.154.147 | AS50477 | Svyaz-Energo Ltd. | RU | Business | 0 | no |
 | 14.39.128.66.ovpn | 14.39.128.66 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
 | 203.170.199.122.ovpn | 203.170.199.122 | AS45458 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Business | 0 | no |
+| 122.216.100.214.ovpn | 122.216.100.214 | AS17506 | ARTERIA Networks Corporation | JP | Residential | 0 | no |
 | 121.166.206.164.ovpn | 121.166.206.164 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 5.136.75.163.ovpn | 5.136.75.163 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 219.147.27.214.ovpn | 219.147.27.214 | AS4134 | Chinanet | CN | Business | 0 | no |
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 67.161.97.89.ovpn | 67.161.97.89 | AS7922 | Comcast Cable Communications, LLC | US | Wireless | 0 | no |
