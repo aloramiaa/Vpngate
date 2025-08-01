@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250801_062703.md)
-- [HTML Index](html/index_20250801_062703.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250801_013940.md)
-- [HTML Index](html/index_20250801_013940.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-01 01:26:45_
+_Generated on: 2025-08-01 12:33:10_
 
-**Summary:** ✅ 37 clean | 🚫 6 flagged | 🔍 43 total
+**Summary:** ✅ 39 clean | 🚫 2 flagged | 🔍 41 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -35,8 +27,10 @@ _Generated on: 2025-08-01 01:26:45_
 | 14.229.214.156.ovpn | 14.229.214.156 | AS45899 | VNPT Corp | VN | Business | 0 | no |
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 90.70.120.163.ovpn | 90.70.120.163 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 58.92.161.19.ovpn | 58.92.161.19 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 118.240.7.120.ovpn | 118.240.7.120 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
+| 114.204.20.113.ovpn | 114.204.20.113 | AS9318 | SK Broadband Co Ltd | KR | Wireless | 0 | no |
 | 61.82.157.46.ovpn | 61.82.157.46 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
