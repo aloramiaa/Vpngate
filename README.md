@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250803_062224.md)
-- [HTML Index](html/index_20250803_062224.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250803_012831.md)
-- [HTML Index](html/index_20250803_012831.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-03 01:25:54_
+_Generated on: 2025-08-03 12:31:01_
 
-**Summary:** ✅ 41 clean | 🚫 10 flagged | 🔍 51 total
+**Summary:** ✅ 40 clean | 🚫 6 flagged | 🔍 46 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -48,7 +40,6 @@ _Generated on: 2025-08-03 01:25:54_
 | 184.22.167.148.ovpn | 184.22.167.148 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 95.68.70.22.ovpn | 95.68.70.22 | AS12578 | SIA Tet | LV | Business | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
-| 182.170.18.218.ovpn | 182.170.18.218 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 60.65.199.62.ovpn | 60.65.199.62 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
