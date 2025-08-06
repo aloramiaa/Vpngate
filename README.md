@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250806_062736.md)
-- [HTML Index](html/index_20250806_062736.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250806_012202.md)
-- [HTML Index](html/index_20250806_012202.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-06 01:19:44_
+_Generated on: 2025-08-06 12:34:49_
 
-**Summary:** ✅ 53 clean | 🚫 5 flagged | 🔍 58 total
+**Summary:** ✅ 55 clean | 🚫 17 flagged | 🔍 72 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -27,6 +19,7 @@ _Generated on: 2025-08-06 01:19:44_
 | 178.185.72.238.ovpn | 178.185.72.238 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 49.228.196.136.ovpn | 49.228.196.136 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 115.90.118.136.ovpn | 115.90.118.136 | AS3786 | LG DACOM Corporation | KR | Business | 0 | no |
 | 67.161.97.89.ovpn | 67.161.97.89 | AS7922 | Comcast Cable Communications, LLC | US | Wireless | 0 | no |
 | 184.22.231.194.ovpn | 184.22.231.194 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 82.124.214.46.ovpn | 82.124.214.46 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
@@ -63,6 +56,7 @@ _Generated on: 2025-08-06 01:19:44_
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 92.37.143.1.ovpn | 92.37.143.1 | AS12389 | PJSC Rostelecom | RU | Wireless | 0 | no |
+| 126.78.247.104.ovpn | 126.78.247.104 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 68.5.196.24.ovpn | 68.5.196.24 | AS22773 | Cox Communications Inc. | US | Wireless | 0 | no |
 | 133.149.84.139.ovpn | 133.149.84.139 | AS9354 | Community Network Center Inc. | JP | Business | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
