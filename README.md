@@ -1,20 +1,11 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250807_182544.md)
-- [HTML Index](html/index_20250807_182544.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250807_123554.md)
-- [HTML Index](html/index_20250807_123554.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-07 12:35:01_
+_Generated on: 2025-08-08 01:19:56_
 
-**Summary:** ✅ 54 clean | 🚫 16 flagged | 🔍 70 total
+**Summary:** ✅ 51 clean | 🚫 5 flagged | 🔍 56 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
-| 211.107.96.233.ovpn | 211.107.96.233 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 103.230.213.253.ovpn | 103.230.213.253 | AS4808 | China Unicom Beijing Province Network | CN | Business | 0 | no |
 | 178.159.82.31.ovpn | 178.159.82.31 | AS12494 | OOO "Post ltd" | RU | Business | 0 | no |
 | 49.228.67.51.ovpn | 49.228.67.51 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -38,7 +29,6 @@ _Generated on: 2025-08-07 12:35:01_
 | 49.228.178.49.ovpn | 49.228.178.49 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 14.229.214.156.ovpn | 14.229.214.156 | AS45899 | VNPT Corp | VN | Business | 0 | no |
-| 115.22.31.75.ovpn | 115.22.31.75 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 109.126.36.208.ovpn | 109.126.36.208 | AS42038 | Krivets Sergey Sergeevich | RU | Wireless | 0 | no |
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 121.128.123.186.ovpn | 121.128.123.186 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -63,7 +53,6 @@ _Generated on: 2025-08-07 12:35:01_
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.199.113.10.ovpn | 211.199.113.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 92.37.143.1.ovpn | 92.37.143.1 | AS12389 | PJSC Rostelecom | RU | Wireless | 0 | no |
-| 126.78.247.104.ovpn | 126.78.247.104 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 68.5.196.24.ovpn | 68.5.196.24 | AS22773 | Cox Communications Inc. | US | Wireless | 0 | no |
 | 133.149.84.139.ovpn | 133.149.84.139 | AS9354 | Community Network Center Inc. | JP | Business | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
