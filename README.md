@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250809_182116.md)
-- [HTML Index](html/index_20250809_182116.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250809_123028.md)
-- [HTML Index](html/index_20250809_123028.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-09 12:29:25_
+_Generated on: 2025-08-10 01:23:43_
 
-**Summary:** ✅ 56 clean | 🚫 8 flagged | 🔍 64 total
+**Summary:** ✅ 57 clean | 🚫 8 flagged | 🔍 65 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -29,7 +21,7 @@ _Generated on: 2025-08-09 12:29:25_
 | 178.185.72.238.ovpn | 178.185.72.238 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 82.124.214.46.ovpn | 82.124.214.46 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 77.79.179.239.ovpn | 77.79.179.239 | AS24955 | JSC "Ufanet" | RU | Business | 0 | no |
-| 36.75.130.16.ovpn | 36.75.130.16 | AS7713 | Telekomunikasi Indonesia (PT) | ID | Business | 0 | no |
+| 5.143.103.163.ovpn | 5.143.103.163 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 109.126.36.208.ovpn | 109.126.36.208 | AS42038 | Krivets Sergey Sergeevich | RU | Wireless | 0 | no |
 | 123.248.67.84.ovpn | 123.248.67.84 | AS38091 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 49.228.30.88.ovpn | 49.228.30.88 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -59,6 +51,7 @@ _Generated on: 2025-08-09 12:29:25_
 | 67.161.97.89.ovpn | 67.161.97.89 | AS7922 | Comcast Cable Communications, LLC | US | Wireless | 0 | no |
 | 125.128.217.162.ovpn | 125.128.217.162 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 88.229.252.191.ovpn | 88.229.252.191 | AS47331 | TTNet A.S. | TR | Residential | 0 | no |
+| 112.160.133.80.ovpn | 112.160.133.80 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.137.159.109.ovpn | 121.137.159.109 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 178.159.82.31.ovpn | 178.159.82.31 | AS12494 | OOO "Post ltd" | RU | Business | 0 | no |
 | 121.156.14.87.ovpn | 121.156.14.87 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -67,7 +60,7 @@ _Generated on: 2025-08-09 12:29:25_
 | 39.125.254.66.ovpn | 39.125.254.66 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 77.82.3.239.ovpn | 77.82.3.239 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 176.208.32.194.ovpn | 176.208.32.194 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
-| 14.7.11.249.ovpn | 14.7.11.249 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
+| 49.228.249.5.ovpn | 49.228.249.5 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 121.165.140.94.ovpn | 121.165.140.94 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 
