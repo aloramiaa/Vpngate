@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250812_062427.md)
-- [HTML Index](html/index_20250812_062427.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20250812_011500.md)
-- [HTML Index](html/index_20250812_011500.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-08-12 01:13:12_
+_Generated on: 2025-08-12 12:31:57_
 
-**Summary:** ✅ 79 clean | 🚫 21 flagged | 🔍 100 total
+**Summary:** ✅ 92 clean | 🚫 4 flagged | 🔍 96 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -20,11 +12,14 @@ _Generated on: 2025-08-12 01:13:12_
 | 118.240.7.120.ovpn | 118.240.7.120 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 160.86.192.75.ovpn | 160.86.192.75 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 92.37.143.1.ovpn | 92.37.143.1 | AS12389 | PJSC Rostelecom | RU | Wireless | 0 | no |
+| 45.94.117.38.ovpn | 45.94.117.38 | AS42148 | Beirel Telecom LLC | RU | Business | 0 | no |
 | 49.228.178.49.ovpn | 49.228.178.49 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 118.236.231.17.ovpn | 118.236.231.17 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 124.209.129.22.ovpn | 124.209.129.22 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 118.70.147.38.ovpn | 118.70.147.38 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 49.228.107.135.ovpn | 49.228.107.135 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 90.70.120.163.ovpn | 90.70.120.163 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
+| 133.175.174.202.ovpn | 133.175.174.202 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 31.163.156.28.ovpn | 31.163.156.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 122.99.21.46.ovpn | 122.99.21.46 | AS9416 | Hoshin Multimedia Center Inc. | TW | Business | 0 | no |
 | 113.22.248.42.ovpn | 113.22.248.42 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
@@ -39,20 +34,25 @@ _Generated on: 2025-08-12 01:13:12_
 | 49.228.30.88.ovpn | 49.228.30.88 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 14.229.214.156.ovpn | 14.229.214.156 | AS45899 | VNPT Corp | VN | Business | 0 | no |
 | 211.107.22.88.ovpn | 211.107.22.88 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 183.80.197.240.ovpn | 183.80.197.240 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 175.115.132.39.ovpn | 175.115.132.39 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 126.85.80.123.ovpn | 126.85.80.123 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
+| 181.94.224.201.ovpn | 181.94.224.201 | AS27895 | Núcleo S.A. | PY | Business | 0 | no |
 | 95.189.76.150.ovpn | 95.189.76.150 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 14.39.128.66.ovpn | 14.39.128.66 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
 | 184.22.167.148.ovpn | 184.22.167.148 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 184.22.231.194.ovpn | 184.22.231.194 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 98.50.117.114.ovpn | 98.50.117.114 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
+| 194.9.79.58.ovpn | 194.9.79.58 | AS12887 | Netia SA | PL | Business | 0 | no |
 | 219.147.27.214.ovpn | 219.147.27.214 | AS4134 | Chinanet | CN | Business | 0 | no |
+| 125.129.216.70.ovpn | 125.129.216.70 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 47.153.190.95.ovpn | 47.153.190.95 | AS5650 | Frontier Communications of America, Inc. | US | Business | 0 | no |
 | 211.198.249.211.ovpn | 211.198.249.211 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 79.105.147.254.ovpn | 79.105.147.254 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 49.167.122.169.ovpn | 49.167.122.169 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
-| 223.207.251.35.ovpn | 223.207.251.35 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 49.228.67.51.ovpn | 49.228.67.51 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 98.164.196.230.ovpn | 98.164.196.230 | AS22773 | Cox Communications Inc. | US | Business | 0 | no |
+| 116.82.77.230.ovpn | 116.82.77.230 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 95.68.70.22.ovpn | 95.68.70.22 | AS12578 | SIA Tet | LV | Business | 0 | no |
 | 112.171.62.19.ovpn | 112.171.62.19 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 138.64.87.31.ovpn | 138.64.87.31 | AS4685 | Asahi Net | JP | Business | 0 | no |
@@ -62,12 +62,15 @@ _Generated on: 2025-08-12 01:13:12_
 | 37.113.117.147.ovpn | 37.113.117.147 | AS57026 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 126.109.101.11.ovpn | 126.109.101.11 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 90.9.51.103.ovpn | 90.9.51.103 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
+| 184.22.113.118.ovpn | 184.22.113.118 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 121.172.119.29.ovpn | 121.172.119.29 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.228.196.136.ovpn | 49.228.196.136 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 121.166.206.164.ovpn | 121.166.206.164 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.86.132.8.ovpn | 115.86.132.8 | AS17598 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 67.161.97.89.ovpn | 67.161.97.89 | AS7922 | Comcast Cable Communications, LLC | US | Wireless | 0 | no |
+| 217.178.139.8.ovpn | 217.178.139.8 | AS55391 | INTERNET MULTIFEED CO. | JP | Business | 0 | no |
 | 49.228.168.192.ovpn | 49.228.168.192 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 110.67.129.31.ovpn | 110.67.129.31 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 210.106.121.196.ovpn | 210.106.121.196 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 220.73.74.19.ovpn | 220.73.74.19 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 1.21.121.201.ovpn | 1.21.121.201 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
@@ -86,9 +89,11 @@ _Generated on: 2025-08-12 01:13:12_
 | 39.125.254.66.ovpn | 39.125.254.66 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 211.192.21.76.ovpn | 211.192.21.76 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 164.70.218.244.ovpn | 164.70.218.244 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
+| 211.178.79.206.ovpn | 211.178.79.206 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 77.82.3.239.ovpn | 77.82.3.239 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 176.208.32.194.ovpn | 176.208.32.194 | AS12389 | PJSC Rostelecom | RU | Business | 0 | no |
 | 49.228.249.5.ovpn | 49.228.249.5 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 49.228.247.86.ovpn | 49.228.247.86 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 121.165.140.94.ovpn | 121.165.140.94 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 125.136.28.172.ovpn | 125.136.28.172 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 221.154.132.112.ovpn | 221.154.132.112 | AS4766 | Korea Telecom | KR | Business | 0 | no |
