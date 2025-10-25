@@ -1,8 +1,8 @@
 {
   "summary": {
-    "total": 517,
-    "clean": 502,
-    "flagged": 15
+    "total": 520,
+    "clean": 507,
+    "flagged": 13
   },
   "records": [
     {
@@ -64,16 +64,6 @@
       "risk": 0,
       "type": "Wireless",
       "proxy": "no"
-    },
-    {
-      "file": "184.22.234.32.ovpn",
-      "ip": "184.22.234.32",
-      "asn": "AS133481",
-      "provider": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
-      "country": "TH",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "220.116.57.237.ovpn",
@@ -166,16 +156,6 @@
       "proxy": "no"
     },
     {
-      "file": "153.175.192.213.ovpn",
-      "ip": "153.175.192.213",
-      "asn": "AS4713",
-      "provider": "NTT Communications Corporation",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "37.215.4.29.ovpn",
       "ip": "37.215.4.29",
       "asn": "AS6697",
@@ -236,16 +216,6 @@
       "proxy": "no"
     },
     {
-      "file": "125.56.57.129.ovpn",
-      "ip": "125.56.57.129",
-      "asn": "AS7679",
-      "provider": "QTnet,Inc.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "184.22.112.244.ovpn",
       "ip": "184.22.112.244",
       "asn": "AS133481",
@@ -261,6 +231,16 @@
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "121.110.227.27.ovpn",
+      "ip": "121.110.227.27",
+      "asn": "AS2516",
+      "provider": "KDDI CORPORATION",
+      "country": "JP",
       "risk": 0,
       "type": "Business",
       "proxy": "no"
@@ -294,16 +274,6 @@
       "risk": 0,
       "type": "Wireless",
       "proxy": "no"
-    },
-    {
-      "file": "131.129.255.205.ovpn",
-      "ip": "131.129.255.205",
-      "asn": "AS4685",
-      "provider": "Asahi Net",
-      "country": "JP",
-      "risk": 66,
-      "type": "OpenVPN",
-      "proxy": "yes"
     },
     {
       "file": "125.102.114.52.ovpn",
@@ -376,16 +346,6 @@
       "proxy": "no"
     },
     {
-      "file": "222.10.39.10.ovpn",
-      "ip": "222.10.39.10",
-      "asn": "AS2516",
-      "provider": "KDDI CORPORATION",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "49.48.245.54.ovpn",
       "ip": "49.48.245.54",
       "asn": "AS45758",
@@ -456,6 +416,16 @@
       "proxy": "no"
     },
     {
+      "file": "47.147.53.250.ovpn",
+      "ip": "47.147.53.250",
+      "asn": "AS5650",
+      "provider": "Frontier Communications of America, Inc.",
+      "country": "US",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
       "file": "59.175.154.112.ovpn",
       "ip": "59.175.154.112",
       "asn": "AS4134",
@@ -484,16 +454,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "110.135.102.73.ovpn",
-      "ip": "110.135.102.73",
-      "asn": "AS9824",
-      "provider": "JCOM Co., Ltd.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "188.209.66.8.ovpn",
@@ -616,14 +576,34 @@
       "proxy": "no"
     },
     {
+      "file": "201.165.30.41.ovpn",
+      "ip": "201.165.30.41",
+      "asn": "AS13999",
+      "provider": "Mega Cable, S.A. de C.V.",
+      "country": "MX",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
+      "file": "107.3.136.128.ovpn",
+      "ip": "107.3.136.128",
+      "asn": "AS7922",
+      "provider": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
       "file": "211.206.8.149.ovpn",
       "ip": "211.206.8.149",
       "asn": "AS9318",
       "provider": "SK Broadband Co Ltd",
       "country": "KR",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "183.109.96.2.ovpn",
@@ -1076,6 +1056,16 @@
       "proxy": "no"
     },
     {
+      "file": "171.4.233.61.ovpn",
+      "ip": "171.4.233.61",
+      "asn": "AS45758",
+      "provider": "Triple T Broadband Public Company Limited",
+      "country": "TH",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
       "file": "49.228.106.50.ovpn",
       "ip": "49.228.106.50",
       "asn": "AS133481",
@@ -1226,6 +1216,16 @@
       "proxy": "no"
     },
     {
+      "file": "219.250.21.165.ovpn",
+      "ip": "219.250.21.165",
+      "asn": "AS9318",
+      "provider": "SK Broadband Co Ltd",
+      "country": "KR",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
       "file": "176.212.101.129.ovpn",
       "ip": "176.212.101.129",
       "asn": "AS57044",
@@ -1334,16 +1334,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "126.74.49.201.ovpn",
-      "ip": "126.74.49.201",
-      "asn": "AS17676",
-      "provider": "SoftBank Corp.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "86.193.87.4.ovpn",
@@ -1476,16 +1466,6 @@
       "proxy": "no"
     },
     {
-      "file": "46.48.239.17.ovpn",
-      "ip": "46.48.239.17",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "46.172.212.111.ovpn",
       "ip": "46.172.212.111",
       "asn": "AS48330",
@@ -1501,9 +1481,9 @@
       "asn": "AS9781",
       "provider": "GREEN CABLE TELEVISION STATION",
       "country": "KR",
-      "risk": 0,
-      "type": "Residential",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "59.3.72.145.ovpn",
@@ -1584,16 +1564,6 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
-    },
-    {
-      "file": "90.188.65.43.ovpn",
-      "ip": "90.188.65.43",
-      "asn": "AS12389",
-      "provider": "PJSC Rostelecom",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "46.188.121.43.ovpn",
@@ -1746,6 +1716,16 @@
       "proxy": "no"
     },
     {
+      "file": "193.114.24.240.ovpn",
+      "ip": "193.114.24.240",
+      "asn": "AS59126",
+      "provider": "NCT CO.,LTD.",
+      "country": "JP",
+      "risk": 0,
+      "type": "Wireless",
+      "proxy": "no"
+    },
+    {
       "file": "220.146.99.174.ovpn",
       "ip": "220.146.99.174",
       "asn": "AS4685",
@@ -1841,6 +1821,16 @@
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
+      "file": "46.163.144.215.ovpn",
+      "ip": "46.163.144.215",
+      "asn": "AS28890",
+      "provider": "INSYS LLC",
+      "country": "RU",
       "risk": 0,
       "type": "Business",
       "proxy": "no"
@@ -2136,16 +2126,6 @@
       "proxy": "no"
     },
     {
-      "file": "46.164.223.215.ovpn",
-      "ip": "46.164.223.215",
-      "asn": "AS6856",
-      "provider": "AO IK \"Informsvyaz-Chernozemye\"",
-      "country": "RU",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "118.20.34.112.ovpn",
       "ip": "118.20.34.112",
       "asn": "AS4713",
@@ -2234,6 +2214,16 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
+    },
+    {
+      "file": "121.174.3.124.ovpn",
+      "ip": "121.174.3.124",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "31.28.98.245.ovpn",
@@ -2746,16 +2736,6 @@
       "proxy": "no"
     },
     {
-      "file": "1.243.176.200.ovpn",
-      "ip": "1.243.176.200",
-      "asn": "AS9318",
-      "provider": "SK Broadband Co Ltd",
-      "country": "KR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "176.116.142.167.ovpn",
       "ip": "176.116.142.167",
       "asn": "AS50716",
@@ -2936,6 +2916,16 @@
       "proxy": "no"
     },
     {
+      "file": "83.139.129.179.ovpn",
+      "ip": "83.139.129.179",
+      "asn": "AS6856",
+      "provider": "AO IK \"Informsvyaz-Chernozemye\"",
+      "country": "RU",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
       "file": "79.88.249.8.ovpn",
       "ip": "79.88.249.8",
       "asn": "AS15557",
@@ -2961,9 +2951,9 @@
       "asn": "AS10010",
       "provider": "TOKAI Communications Corporation",
       "country": "JP",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "182.21.214.41.ovpn",
@@ -2984,16 +2974,6 @@
       "risk": 0,
       "type": "Wireless",
       "proxy": "no"
-    },
-    {
-      "file": "175.118.42.95.ovpn",
-      "ip": "175.118.42.95",
-      "asn": "AS9318",
-      "provider": "SK Broadband Co Ltd",
-      "country": "KR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "184.22.14.205.ovpn",
@@ -3044,16 +3024,6 @@
       "risk": 0,
       "type": "Wireless",
       "proxy": "no"
-    },
-    {
-      "file": "186.122.0.156.ovpn",
-      "ip": "186.122.0.156",
-      "asn": "AS11664",
-      "provider": "Techtel LMDS Comunicaciones Interactivas S.A.",
-      "country": "AR",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "184.22.112.57.ovpn",
@@ -3204,6 +3174,16 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
+    },
+    {
+      "file": "118.69.103.59.ovpn",
+      "ip": "118.69.103.59",
+      "asn": "AS18403",
+      "provider": "FPT Telecom Company",
+      "country": "VN",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "85.172.103.17.ovpn",
@@ -3361,9 +3341,9 @@
       "asn": "AS4766",
       "provider": "Korea Telecom",
       "country": "KR",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "121.164.0.121.ovpn",
@@ -3656,6 +3636,16 @@
       "proxy": "no"
     },
     {
+      "file": "184.22.115.108.ovpn",
+      "ip": "184.22.115.108",
+      "asn": "AS133481",
+      "provider": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "country": "TH",
+      "risk": 0,
+      "type": "Wireless",
+      "proxy": "no"
+    },
+    {
       "file": "190.106.222.207.ovpn",
       "ip": "190.106.222.207",
       "asn": "AS52362",
@@ -3796,6 +3786,16 @@
       "proxy": "no"
     },
     {
+      "file": "136.169.234.131.ovpn",
+      "ip": "136.169.234.131",
+      "asn": "AS24955",
+      "provider": "JSC \"Ufanet\"",
+      "country": "RU",
+      "risk": 0,
+      "type": "Business",
+      "proxy": "no"
+    },
+    {
       "file": "162.0.155.10.ovpn",
       "ip": "162.0.155.10",
       "asn": "AS397961",
@@ -3831,9 +3831,9 @@
       "asn": "AS12389",
       "provider": "PJSC Rostelecom",
       "country": "RU",
-      "risk": 0,
-      "type": "Business",
-      "proxy": "no"
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "113.184.49.153.ovpn",
@@ -3866,16 +3866,6 @@
       "proxy": "no"
     },
     {
-      "file": "220.57.84.30.ovpn",
-      "ip": "220.57.84.30",
-      "asn": "AS17676",
-      "provider": "SoftBank Corp.",
-      "country": "JP",
-      "risk": 66,
-      "type": "Shadowsocks",
-      "proxy": "yes"
-    },
-    {
       "file": "79.33.111.253.ovpn",
       "ip": "79.33.111.253",
       "asn": "AS3269",
@@ -3894,6 +3884,16 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
+    },
+    {
+      "file": "184.22.103.42.ovpn",
+      "ip": "184.22.103.42",
+      "asn": "AS133481",
+      "provider": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "country": "TH",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "184.22.177.5.ovpn",
@@ -3956,6 +3956,16 @@
       "proxy": "no"
     },
     {
+      "file": "172.117.72.215.ovpn",
+      "ip": "172.117.72.215",
+      "asn": "AS20001",
+      "provider": "Charter Communications Inc",
+      "country": "US",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
+    },
+    {
       "file": "184.22.105.231.ovpn",
       "ip": "184.22.105.231",
       "asn": "AS133481",
@@ -4016,6 +4026,16 @@
       "proxy": "no"
     },
     {
+      "file": "49.228.89.239.ovpn",
+      "ip": "49.228.89.239",
+      "asn": "AS133481",
+      "provider": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+      "country": "TH",
+      "risk": 0,
+      "type": "Residential",
+      "proxy": "no"
+    },
+    {
       "file": "178.173.126.186.ovpn",
       "ip": "178.173.126.186",
       "asn": "AS201776",
@@ -4044,16 +4064,6 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
-    },
-    {
-      "file": "217.164.186.170.ovpn",
-      "ip": "217.164.186.170",
-      "asn": "AS5384",
-      "provider": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
-      "country": "AE",
-      "risk": 99,
-      "type": "Shadowsocks",
-      "proxy": "yes"
     },
     {
       "file": "90.151.94.156.ovpn",
@@ -4384,6 +4394,16 @@
       "risk": 0,
       "type": "Residential",
       "proxy": "no"
+    },
+    {
+      "file": "222.108.84.123.ovpn",
+      "ip": "222.108.84.123",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "86.204.236.112.ovpn",
@@ -5094,6 +5114,16 @@
       "risk": 0,
       "type": "Business",
       "proxy": "no"
+    },
+    {
+      "file": "121.159.253.76.ovpn",
+      "ip": "121.159.253.76",
+      "asn": "AS4766",
+      "provider": "Korea Telecom",
+      "country": "KR",
+      "risk": 66,
+      "type": "Shadowsocks",
+      "proxy": "yes"
     },
     {
       "file": "49.49.220.18.ovpn",
