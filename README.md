@@ -1,15 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20251109_062118.md)
-- [HTML Index](html/index_20251109_062118.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20251109_011623.md)
-- [HTML Index](html/index_20251109_011623.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2025-11-09 01:15:01_
+_Generated on: 2025-11-09 12:27:35_
 
-**Summary:** ✅ 534 clean | 🚫 17 flagged | 🔍 551 total
+**Summary:** ✅ 532 clean | 🚫 4 flagged | 🔍 536 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -35,7 +27,6 @@ _Generated on: 2025-11-09 01:15:01_
 | 184.22.224.103.ovpn | 184.22.224.103 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 183.82.204.60.ovpn | 183.82.204.60 | AS24309 | Atria Convergence Technologies Pvt. Ltd., | IN | Residential | 0 | no |
 | 133.32.131.181.ovpn | 133.32.131.181 | AS2519 | ARTERIA Networks Corporation | JP | Wireless | 0 | no |
-| 203.135.231.8.ovpn | 203.135.231.8 | AS7679 | QTnet,Inc. | JP | Business | 0 | no |
 | 184.22.229.57.ovpn | 184.22.229.57 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.112.244.ovpn | 184.22.112.244 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 183.100.45.49.ovpn | 183.100.45.49 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -52,7 +43,6 @@ _Generated on: 2025-11-09 01:15:01_
 | 184.22.20.182.ovpn | 184.22.20.182 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.48.245.54.ovpn | 49.48.245.54 | AS45629 | JasTel Network | TH | Residential | 0 | no |
 | 95.24.37.108.ovpn | 95.24.37.108 | AS8402 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
-| 147.46.36.123.ovpn | 147.46.36.123 | AS9488 | Seoul National University | KR | Business | 0 | no |
 | 82.208.126.69.ovpn | 82.208.126.69 | AS12389 | PJSC Rostelecom | RU | Wireless | 0 | no |
 | 133.106.184.61.ovpn | 133.106.184.61 | AS138384 | Rakuten Mobile, Inc. | JP | Wireless | 0 | no |
 | 181.239.22.211.ovpn | 181.239.22.211 | AS11664 | Techtel LMDS Comunicaciones Interactivas S.A. | AR | Wireless | 0 | no |
@@ -151,7 +141,6 @@ _Generated on: 2025-11-09 01:15:01_
 | 176.214.239.243.ovpn | 176.214.239.243 | AS50498 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 138.64.234.54.ovpn | 138.64.234.54 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 121.128.123.165.ovpn | 121.128.123.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 184.22.105.25.ovpn | 184.22.105.25 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 88.138.40.36.ovpn | 88.138.40.36 | AS15557 | Societe Francaise Du Radiotelephone - SFR SA | FR | Residential | 0 | no |
 | 95.27.106.90.ovpn | 95.27.106.90 | AS8402 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
 | 86.221.130.37.ovpn | 86.221.130.37 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
@@ -186,7 +175,6 @@ _Generated on: 2025-11-09 01:15:01_
 | 95.52.236.211.ovpn | 95.52.236.211 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.113.118.ovpn | 184.22.113.118 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 76.88.146.153.ovpn | 76.88.146.153 | AS20001 | Charter Communications Inc | US | Business | 0 | no |
-| 211.172.29.73.ovpn | 211.172.29.73 | AS10036 | DLIVE | KR | Residential | 0 | no |
 | 220.146.99.174.ovpn | 220.146.99.174 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 121.149.214.207.ovpn | 121.149.214.207 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 112.138.253.9.ovpn | 112.138.253.9 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
@@ -335,6 +323,7 @@ _Generated on: 2025-11-09 01:15:01_
 | 14.39.243.61.ovpn | 14.39.243.61 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 183.99.81.92.ovpn | 183.99.81.92 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.52.9.ovpn | 184.22.52.9 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 94.230.44.44.ovpn | 94.230.44.44 | AS48475 | Closed Joint Stock Company Oskolnet | RU | Business | 0 | no |
 | 138.64.100.174.ovpn | 138.64.100.174 | AS4685 | Asahi Net | JP | Wireless | 0 | no |
 | 85.172.103.17.ovpn | 85.172.103.17 | AS25490 | PJSC Rostelecom | RU | Business | 0 | no |
 | 159.253.173.33.ovpn | 159.253.173.33 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
@@ -414,6 +403,7 @@ _Generated on: 2025-11-09 01:15:01_
 | 121.147.156.221.ovpn | 121.147.156.221 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.228.114.136.ovpn | 49.228.114.136 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.22.204.ovpn | 184.22.22.204 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 179.6.168.57.ovpn | 179.6.168.57 | AS12252 | America Movil Peru S.A.C. | PE | Business | 0 | no |
 | 184.22.105.231.ovpn | 184.22.105.231 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 189.156.251.95.ovpn | 189.156.251.95 | AS8151 | Uninet S.A. de C.V. | MX | Residential | 0 | no |
 | 101.128.195.146.ovpn | 101.128.195.146 | AS2497 | Internet Initiative Japan Inc. | JP | Business | 0 | no |
@@ -496,7 +486,7 @@ _Generated on: 2025-11-09 01:15:01_
 | 130.62.10.102.ovpn | 130.62.10.102 | AS55391 | INTERNET MULTIFEED CO. | JP | Business | 0 | no |
 | 42.2.41.130.ovpn | 42.2.41.130 | AS4760 | PCCW IMS Limited | HK | Business | 0 | no |
 | 61.84.33.83.ovpn | 61.84.33.83 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 184.22.112.219.ovpn | 184.22.112.219 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 184.22.112.219.ovpn | 184.22.112.219 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.228.126.60.ovpn | 49.228.126.60 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 1.66.33.11.ovpn | 1.66.33.11 | AS9605 | NTT DOCOMO, INC. | JP | Wireless | 0 | no |
 | 2.7.146.220.ovpn | 2.7.146.220 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
