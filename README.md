@@ -1,3 +1,7 @@
+## Latest VPNGate Reports
+- [Markdown Report](reports/IPs_No_Proxy_20260130_183525.md)
+- [HTML Index](html/index_20260130_183525.html)
+
 # 🚀 VPNGate Config Report
 _Generated on: 2026-01-30 12:43:44_
 
