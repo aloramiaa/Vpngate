@@ -1,43 +1,12 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260315_065101.md)
-- [HTML Index](html/index_20260315_065101.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260315_015847.md)
-- [HTML Index](html/index_20260315_015847.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260314_183112.md)
-- [HTML Index](html/index_20260314_183112.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260314_124040.md)
-- [HTML Index](html/index_20260314_124040.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260314_063951.md)
-- [HTML Index](html/index_20260314_063951.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260314_014320.md)
-- [HTML Index](html/index_20260314_014320.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260313_183450.md)
-- [HTML Index](html/index_20260313_183450.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260313_124933.md)
-- [HTML Index](html/index_20260313_124933.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2026-03-13 12:47:37_
+_Generated on: 2026-03-15 12:41:57_
 
-**Summary:** ✅ 1933 clean | 🚫 98 flagged | 🔍 2031 total
+**Summary:** ✅ 1990 clean | 🚫 74 flagged | 🔍 2064 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
 |------|----|-----|----------|---------|------|------|-------|
+| 126.26.240.91.ovpn | 126.26.240.91 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 59.12.240.100.ovpn | 59.12.240.100 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 76.88.146.153.ovpn | 76.88.146.153 | AS20001 | Charter Communications Inc | US | Business | 0 | no |
 | 73.162.191.132.ovpn | 73.162.191.132 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
@@ -49,6 +18,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 138.64.213.188.ovpn | 138.64.213.188 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 184.22.115.46.ovpn | 184.22.115.46 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 95.26.214.70.ovpn | 95.26.214.70 | AS3216 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
+| 124.18.10.151.ovpn | 124.18.10.151 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 126.39.148.229.ovpn | 126.39.148.229 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 171.5.247.170.ovpn | 171.5.247.170 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 119.230.244.110.ovpn | 119.230.244.110 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
@@ -56,6 +26,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 5.149.207.193.ovpn | 5.149.207.193 | AS50477 | Svyaz-Energo Ltd. | RU | Business | 0 | no |
 | 60.114.255.84.ovpn | 60.114.255.84 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 184.22.34.152.ovpn | 184.22.34.152 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 27.145.141.187.ovpn | 27.145.141.187 | AS17552 | TRUE INTERNET CORPORATION CO. LTD. | TH | Residential | 0 | no |
 | 115.65.193.173.ovpn | 115.65.193.173 | AS9595 | NTT-ME Corporation | JP | Business | 0 | no |
 | 49.228.168.115.ovpn | 49.228.168.115 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 85.140.86.136.ovpn | 85.140.86.136 | AS39001 | MTS PJSC | RU | Residential | 0 | no |
@@ -85,8 +56,8 @@ _Generated on: 2026-03-13 12:47:37_
 | 49.228.246.79.ovpn | 49.228.246.79 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 106.138.81.22.ovpn | 106.138.81.22 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 133.106.184.61.ovpn | 133.106.184.61 | AS138384 | Rakuten Mobile, Inc. | JP | Wireless | 0 | no |
-| 118.154.9.31.ovpn | 118.154.9.31 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 210.153.202.246.ovpn | 210.153.202.246 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
+| 73.49.160.240.ovpn | 73.49.160.240 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
 | 118.69.97.131.ovpn | 118.69.97.131 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 39.111.20.69.ovpn | 39.111.20.69 | AS2527 | Sony Network Communications Inc. | JP | Wireless | 0 | no |
 | 115.140.42.10.ovpn | 115.140.42.10 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
@@ -95,6 +66,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 82.140.197.232.ovpn | 82.140.197.232 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 49.228.179.235.ovpn | 49.228.179.235 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 223.207.232.34.ovpn | 223.207.232.34 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
+| 203.109.204.188.ovpn | 203.109.204.188 | AS9500 | One New Zealand Group Limited | NZ | Residential | 0 | no |
 | 220.76.215.220.ovpn | 220.76.215.220 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 86.102.34.123.ovpn | 86.102.34.123 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 171.4.232.75.ovpn | 171.4.232.75 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
@@ -109,11 +81,12 @@ _Generated on: 2026-03-13 12:47:37_
 | 95.182.119.156.ovpn | 95.182.119.156 | AS212860 | AIRNET llc | UZ | Business | 0 | no |
 | 176.49.239.61.ovpn | 176.49.239.61 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 218.53.37.3.ovpn | 218.53.37.3 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 171.4.246.82.ovpn | 171.4.246.82 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
 | 1.236.146.57.ovpn | 1.236.146.57 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 184.22.109.122.ovpn | 184.22.109.122 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 42.118.111.100.ovpn | 42.118.111.100 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 222.120.204.30.ovpn | 222.120.204.30 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 211.214.41.150.ovpn | 211.214.41.150 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 175.196.74.78.ovpn | 175.196.74.78 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 59.19.113.126.ovpn | 59.19.113.126 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.159.230.55.ovpn | 121.159.230.55 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.165.203.230.ovpn | 121.165.203.230 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -127,6 +100,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 14.54.186.223.ovpn | 14.54.186.223 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 46.42.144.124.ovpn | 46.42.144.124 | AS16345 | PJSC "Vimpelcom" | RU | Wireless | 0 | no |
 | 218.233.0.176.ovpn | 218.233.0.176 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
+| 114.34.79.240.ovpn | 114.34.79.240 | AS3462 | Chunghwa Telecom Co., Ltd. | TW | Business | 0 | no |
 | 77.34.115.28.ovpn | 77.34.115.28 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 14.14.103.76.ovpn | 14.14.103.76 | AS23624 | Chukai Television Co,.Ltd. | JP | Business | 0 | no |
 | 5.16.76.228.ovpn | 5.16.76.228 | AS51570 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
@@ -137,10 +111,12 @@ _Generated on: 2026-03-13 12:47:37_
 | 59.168.25.10.ovpn | 59.168.25.10 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 211.250.212.83.ovpn | 211.250.212.83 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 86.221.130.37.ovpn | 86.221.130.37 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
+| 111.118.48.156.ovpn | 111.118.48.156 | AS7562 | HCN Dongjak | KR | Business | 0 | no |
 | 49.228.106.113.ovpn | 49.228.106.113 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.107.140.ovpn | 184.22.107.140 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 122.133.203.15.ovpn | 122.133.203.15 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 211.244.206.212.ovpn | 211.244.206.212 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 46.147.171.249.ovpn | 46.147.171.249 | AS34590 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 2.63.200.244.ovpn | 2.63.200.244 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 201.88.57.19.ovpn | 201.88.57.19 | AS8167 | V tal | BR | Business | 0 | no |
 | 118.172.249.175.ovpn | 118.172.249.175 | AS23969 | TOT Public Company Limited | TH | Business | 0 | no |
@@ -150,6 +126,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 222.112.74.252.ovpn | 222.112.74.252 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 218.155.56.37.ovpn | 218.155.56.37 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 126.86.184.87.ovpn | 126.86.184.87 | AS17676 | SoftBank Corp. | JP | Wireless | 0 | no |
+| 133.202.171.4.ovpn | 133.202.171.4 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 31.200.233.220.ovpn | 31.200.233.220 | AS196949 | Natalia Sergeevna Filicheva | RU | Wireless | 0 | no |
 | 58.127.200.52.ovpn | 58.127.200.52 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 188.232.242.45.ovpn | 188.232.242.45 | AS41843 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
@@ -205,12 +182,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 110.168.218.47.ovpn | 110.168.218.47 | AS17552 | TRUE INTERNET CORPORATION CO. LTD. | TH | Residential | 0 | no |
 | 211.221.86.29.ovpn | 211.221.86.29 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.228.230.196.ovpn | 49.228.230.196 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 119.197.61.182.ovpn | 119.197.61.182 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 203.234.157.96.ovpn | 203.234.157.96 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.140.254.151.ovpn | 121.140.254.151 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 119.206.61.237.ovpn | 119.206.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 60.93.146.33.ovpn | 60.93.146.33 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 122.99.21.46.ovpn | 122.99.21.46 | AS9416 | Hoshin Multimedia Center Inc. | TW | Business | 0 | no |
 | 124.96.73.94.ovpn | 124.96.73.94 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
-| 36.12.244.203.ovpn | 36.12.244.203 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 221.159.197.28.ovpn | 221.159.197.28 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.57.31.252.ovpn | 211.57.31.252 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 181.224.85.249.ovpn | 181.224.85.249 | AS262462 | Aranet Comunicacao Ltda | BR | Business | 0 | no |
@@ -237,6 +215,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 92.170.219.238.ovpn | 92.170.219.238 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 109.75.203.1.ovpn | 109.75.203.1 | AS59815 | Kompeatelecom Ltd. | RU | Business | 0 | no |
 | 42.127.187.43.ovpn | 42.127.187.43 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
+| 171.6.240.245.ovpn | 171.6.240.245 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
 | 1.55.69.42.ovpn | 1.55.69.42 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 176.10.252.210.ovpn | 176.10.252.210 | AS8473 | Bahnhof AB | SE | Business | 0 | no |
 | 118.71.221.191.ovpn | 118.71.221.191 | AS18403 | FPT Telecom Company | VN | Wireless | 0 | no |
@@ -251,12 +230,15 @@ _Generated on: 2026-03-13 12:47:37_
 | 60.35.142.104.ovpn | 60.35.142.104 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 121.178.43.177.ovpn | 121.178.43.177 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 182.215.53.85.ovpn | 182.215.53.85 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
+| 169.212.0.150.ovpn | 169.212.0.150 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 211.54.167.152.ovpn | 211.54.167.152 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 1.255.215.116.ovpn | 1.255.215.116 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 183.180.123.148.ovpn | 183.180.123.148 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 112.161.237.50.ovpn | 112.161.237.50 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 106.167.86.26.ovpn | 106.167.86.26 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 178.187.221.213.ovpn | 178.187.221.213 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 93.159.241.248.ovpn | 93.159.241.248 | AS39785 | Axioma, LLC | RU | Business | 0 | no |
+| 133.155.14.130.ovpn | 133.155.14.130 | AS7524 | ITEC HANKYU HANSHIN CO.,LTD. | JP | Business | 0 | no |
 | 118.104.40.28.ovpn | 118.104.40.28 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 211.193.149.11.ovpn | 211.193.149.11 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.21.134.ovpn | 184.22.21.134 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -265,6 +247,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 153.228.35.215.ovpn | 153.228.35.215 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 175.117.161.15.ovpn | 175.117.161.15 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 203.95.223.197.ovpn | 203.95.223.197 | AS63996 | Mazeda Networks Limited | BD | Business | 0 | no |
+| 115.22.136.4.ovpn | 115.22.136.4 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.230.88.62.ovpn | 49.230.88.62 | AS131445 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 222.9.163.0.ovpn | 222.9.163.0 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 138.64.254.182.ovpn | 138.64.254.182 | AS4685 | Asahi Net | JP | Business | 0 | no |
@@ -297,6 +280,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 217.144.167.251.ovpn | 217.144.167.251 | AS57251 | LLC Intelcom | RU | Business | 0 | no |
 | 119.65.176.5.ovpn | 119.65.176.5 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
 | 14.132.153.53.ovpn | 14.132.153.53 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
+| 46.147.179.187.ovpn | 46.147.179.187 | AS34590 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 59.27.99.102.ovpn | 59.27.99.102 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 39.111.40.240.ovpn | 39.111.40.240 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 114.190.65.146.ovpn | 114.190.65.146 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
@@ -304,6 +288,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 5.228.115.123.ovpn | 5.228.115.123 | AS42610 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 211.59.230.99.ovpn | 211.59.230.99 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 222.9.37.39.ovpn | 222.9.37.39 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
+| 42.116.193.29.ovpn | 42.116.193.29 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 222.106.148.156.ovpn | 222.106.148.156 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 126.26.12.73.ovpn | 126.26.12.73 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 222.101.121.212.ovpn | 222.101.121.212 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -319,6 +304,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 118.44.168.216.ovpn | 118.44.168.216 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.169.144.158.ovpn | 121.169.144.158 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 77.34.222.166.ovpn | 77.34.222.166 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 60.127.61.103.ovpn | 60.127.61.103 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 119.195.77.128.ovpn | 119.195.77.128 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 79.88.249.8.ovpn | 79.88.249.8 | AS15557 | Societe Francaise Du Radiotelephone - SFR SA | FR | Residential | 0 | no |
 | 184.22.223.138.ovpn | 184.22.223.138 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
@@ -370,6 +356,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 221.145.19.80.ovpn | 221.145.19.80 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 123.1.120.110.ovpn | 123.1.120.110 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 49.228.255.214.ovpn | 49.228.255.214 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 153.161.42.17.ovpn | 153.161.42.17 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 211.114.178.1.ovpn | 211.114.178.1 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.33.97.ovpn | 184.22.33.97 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 14.44.87.203.ovpn | 14.44.87.203 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -408,6 +395,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 111.94.3.125.ovpn | 111.94.3.125 | AS23700 | Linknet-Fastnet ASN | ID | Business | 0 | no |
 | 220.210.176.43.ovpn | 220.210.176.43 | AS2497 | Internet Initiative Japan Inc. | JP | Business | 0 | no |
 | 27.98.11.61.ovpn | 27.98.11.61 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
+| 14.50.103.225.ovpn | 14.50.103.225 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 183.100.69.195.ovpn | 183.100.69.195 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.228.241.157.ovpn | 49.228.241.157 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 5.145.167.25.ovpn | 5.145.167.25 | AS44265 | Smoltelecom Ltd | RU | Residential | 0 | no |
@@ -424,6 +412,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 49.228.100.12.ovpn | 49.228.100.12 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 106.157.175.170.ovpn | 106.157.175.170 | AS2516 | KDDI CORPORATION | JP | Wireless | 0 | no |
 | 203.140.246.210.ovpn | 203.140.246.210 | AS9622 | Kurashiki Cable TV | JP | Wireless | 0 | no |
+| 118.71.188.223.ovpn | 118.71.188.223 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 60.65.113.36.ovpn | 60.65.113.36 | AS17676 | SoftBank Corp. | JP | Wireless | 0 | no |
 | 94.181.224.94.ovpn | 94.181.224.94 | AS41727 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 222.100.183.163.ovpn | 222.100.183.163 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -444,7 +433,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 121.166.213.117.ovpn | 121.166.213.117 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 112.71.205.163.ovpn | 112.71.205.163 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 77.35.4.18.ovpn | 77.35.4.18 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
-| 133.207.161.129.ovpn | 133.207.161.129 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 42.112.175.8.ovpn | 42.112.175.8 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 14.51.78.178.ovpn | 14.51.78.178 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.153.172.196.ovpn | 121.153.172.196 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -477,9 +465,9 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.19.15.ovpn | 184.22.19.15 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 112.162.191.198.ovpn | 112.162.191.198 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.216.20.37.ovpn | 211.216.20.37 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 125.24.14.16.ovpn | 125.24.14.16 | AS23969 | TOT Public Company Limited | TH | Business | 0 | no |
 | 211.253.105.181.ovpn | 211.253.105.181 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 123.226.219.162.ovpn | 123.226.219.162 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
-| 46.150.178.59.ovpn | 46.150.178.59 | AS49106 | Opticom Group AO | RU | Residential | 0 | no |
 | 220.121.96.208.ovpn | 220.121.96.208 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 125.242.188.86.ovpn | 125.242.188.86 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
 | 134.19.154.147.ovpn | 134.19.154.147 | AS50477 | Svyaz-Energo Ltd. | RU | Business | 0 | no |
@@ -495,6 +483,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 203.164.205.235.ovpn | 203.164.205.235 | AS4804 | SingTel Optus Pty Ltd | AU | Residential | 0 | no |
 | 77.82.177.178.ovpn | 77.82.177.178 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 121.160.10.182.ovpn | 121.160.10.182 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 118.34.253.142.ovpn | 118.34.253.142 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 202.95.62.229.ovpn | 202.95.62.229 | AS7511 | SYNAPSE Co.,Ltd. | JP | Business | 0 | no |
 | 14.55.135.173.ovpn | 14.55.135.173 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 175.201.140.79.ovpn | 175.201.140.79 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -502,22 +491,26 @@ _Generated on: 2026-03-13 12:47:37_
 | 117.18.30.210.ovpn | 117.18.30.210 | AS23618 | Ibara Broadcasting Company | JP | Wireless | 0 | no |
 | 220.146.99.174.ovpn | 220.146.99.174 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 49.228.224.171.ovpn | 49.228.224.171 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 14.47.236.6.ovpn | 14.47.236.6 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 121.144.80.182.ovpn | 121.144.80.182 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 5.145.252.206.ovpn | 5.145.252.206 | AS44265 | Smoltelecom Ltd | RU | Residential | 0 | no |
 | 102.23.174.211.ovpn | 102.23.174.211 | AS328242 | IP Labs Communications (Pty) Ltd | ZA | Business | 0 | no |
 | 175.213.19.125.ovpn | 175.213.19.125 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 119.202.253.48.ovpn | 119.202.253.48 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 37.232.235.1.ovpn | 37.232.235.1 | AS12714 | PJSC MegaFon | RU | Business | 0 | no |
 | 121.171.112.85.ovpn | 121.171.112.85 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 126.114.103.147.ovpn | 126.114.103.147 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 131.129.38.103.ovpn | 131.129.38.103 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 211.214.179.242.ovpn | 211.214.179.242 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
+| 153.190.35.192.ovpn | 153.190.35.192 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 91.232.202.196.ovpn | 91.232.202.196 | AS49325 | Kvartal Plus Ltd | RU | Business | 0 | no |
 | 89.189.104.222.ovpn | 89.189.104.222 | AS41349 | Limited Liability Company MVM Technology | RU | Residential | 0 | no |
+| 150.246.238.91.ovpn | 150.246.238.91 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 171.4.236.170.ovpn | 171.4.236.170 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 49.228.240.32.ovpn | 49.228.240.32 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.250.34.ovpn | 184.22.250.34 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 98.42.235.77.ovpn | 98.42.235.77 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
 | 184.22.67.175.ovpn | 184.22.67.175 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 171.4.223.134.ovpn | 171.4.223.134 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
 | 211.226.208.197.ovpn | 211.226.208.197 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.181.49.238.ovpn | 121.181.49.238 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.106.236.ovpn | 184.22.106.236 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -527,6 +520,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 121.189.231.253.ovpn | 121.189.231.253 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 203.56.147.5.ovpn | 203.56.147.5 | AS136994 | Southern Phone Company Ltd | AU | Business | 0 | no |
 | 58.122.206.142.ovpn | 58.122.206.142 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 112.186.137.69.ovpn | 112.186.137.69 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 153.170.136.2.ovpn | 153.170.136.2 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 121.169.233.248.ovpn | 121.169.233.248 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 222.252.11.20.ovpn | 222.252.11.20 | AS45899 | VNPT Corp | VN | Business | 0 | no |
@@ -541,6 +535,8 @@ _Generated on: 2026-03-13 12:47:37_
 | 49.228.167.50.ovpn | 49.228.167.50 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 91.115.113.234.ovpn | 91.115.113.234 | AS8447 | A1 Telekom Austria AG | AT | Business | 0 | no |
 | 126.48.178.187.ovpn | 126.48.178.187 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
+| 133.209.158.229.ovpn | 133.209.158.229 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
+| 133.149.94.53.ovpn | 133.149.94.53 | AS9354 | Community Network Center Inc. | JP | Business | 0 | no |
 | 110.171.24.244.ovpn | 110.171.24.244 | AS17552 | TRUE INTERNET CORPORATION CO. LTD. | TH | Residential | 0 | no |
 | 184.22.102.44.ovpn | 184.22.102.44 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.228.240.19.ovpn | 49.228.240.19 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -566,6 +562,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 39.125.77.177.ovpn | 39.125.77.177 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 49.164.215.204.ovpn | 49.164.215.204 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
 | 191.99.73.181.ovpn | 191.99.73.181 | AS27738 | Ecuadortelecom S.A. | EC | Residential | 0 | no |
+| 78.29.43.182.ovpn | 78.29.43.182 | AS8369 | Intersvyaz-2 JSC | RU | Business | 0 | no |
 | 184.22.23.114.ovpn | 184.22.23.114 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 77.35.180.102.ovpn | 77.35.180.102 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 118.240.118.77.ovpn | 118.240.118.77 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
@@ -599,8 +596,8 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.115.108.ovpn | 184.22.115.108 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 184.22.165.141.ovpn | 184.22.165.141 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 106.160.205.15.ovpn | 106.160.205.15 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
-| 118.240.172.98.ovpn | 118.240.172.98 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 211.107.22.88.ovpn | 211.107.22.88 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 42.114.48.245.ovpn | 42.114.48.245 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 49.228.196.136.ovpn | 49.228.196.136 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 153.160.50.43.ovpn | 153.160.50.43 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 184.22.113.118.ovpn | 184.22.113.118 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
@@ -609,6 +606,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 118.70.202.235.ovpn | 118.70.202.235 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 211.48.247.3.ovpn | 211.48.247.3 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 171.4.5.203.ovpn | 171.4.5.203 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
+| 218.54.117.112.ovpn | 218.54.117.112 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 184.22.112.244.ovpn | 184.22.112.244 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 183.180.185.215.ovpn | 183.180.185.215 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 37.21.102.14.ovpn | 37.21.102.14 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -627,8 +625,8 @@ _Generated on: 2026-03-13 12:47:37_
 | 118.174.155.71.ovpn | 118.174.155.71 | AS23969 | TOT Public Company Limited | TH | Residential | 0 | no |
 | 61.72.77.171.ovpn | 61.72.77.171 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 180.196.249.13.ovpn | 180.196.249.13 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
-| 112.219.44.4.ovpn | 112.219.44.4 | AS3786 | LG DACOM Corporation | KR | Business | 0 | no |
 | 118.47.2.187.ovpn | 118.47.2.187 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 221.151.168.152.ovpn | 221.151.168.152 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.214.87.129.ovpn | 211.214.87.129 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 211.35.149.48.ovpn | 211.35.149.48 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 153.207.221.175.ovpn | 153.207.221.175 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
@@ -674,6 +672,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 5.143.54.35.ovpn | 5.143.54.35 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 77.82.161.171.ovpn | 77.82.161.171 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 121.181.131.100.ovpn | 121.181.131.100 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
+| 133.32.182.93.ovpn | 133.32.182.93 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 49.228.114.92.ovpn | 49.228.114.92 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 5.228.80.236.ovpn | 5.228.80.236 | AS42610 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 49.228.167.133.ovpn | 49.228.167.133 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -685,26 +684,28 @@ _Generated on: 2026-03-13 12:47:37_
 | 125.13.82.217.ovpn | 125.13.82.217 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 126.187.36.71.ovpn | 126.187.36.71 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 112.135.170.215.ovpn | 112.135.170.215 | AS9329 | Sri Lanka Telecom Ltd | LK | Residential | 0 | no |
-| 183.98.37.140.ovpn | 183.98.37.140 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 60.34.195.113.ovpn | 60.34.195.113 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 118.35.104.191.ovpn | 118.35.104.191 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 193.114.24.248.ovpn | 193.114.24.248 | AS59126 | NCT CO.,LTD. | JP | Wireless | 0 | no |
 | 91.195.211.111.ovpn | 91.195.211.111 | AS8359 | MTS PJSC | RU | Wireless | 0 | no |
 | 138.64.80.15.ovpn | 138.64.80.15 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 79.105.129.71.ovpn | 79.105.129.71 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 116.127.104.24.ovpn | 116.127.104.24 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 113.22.248.176.ovpn | 113.22.248.176 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 126.83.126.154.ovpn | 126.83.126.154 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 126.1.52.210.ovpn | 126.1.52.210 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.228.30.88.ovpn | 49.228.30.88 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.228.165.5.ovpn | 49.228.165.5 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 61.78.96.142.ovpn | 61.78.96.142 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 219.102.150.13.ovpn | 219.102.150.13 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
+| 193.114.24.199.ovpn | 193.114.24.199 | AS59126 | NCT CO.,LTD. | JP | Wireless | 0 | no |
 | 182.166.120.75.ovpn | 182.166.120.75 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 183.82.204.60.ovpn | 183.82.204.60 | AS24309 | Atria Convergence Technologies Pvt. Ltd., | IN | Residential | 0 | no |
 | 153.211.7.23.ovpn | 153.211.7.23 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 49.228.119.145.ovpn | 49.228.119.145 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 121.148.161.174.ovpn | 121.148.161.174 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 176.102.4.101.ovpn | 176.102.4.101 | AS196767 | INMART.UA LLC | UA | Business | 0 | no |
 | 39.122.10.39.ovpn | 39.122.10.39 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
-| 125.14.139.137.ovpn | 125.14.139.137 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 61.44.181.228.ovpn | 61.44.181.228 | AS59127 | Newmedia Corporation | JP | Business | 0 | no |
 | 93.187.70.23.ovpn | 93.187.70.23 | AS57935 | Nrp Teknoloji Limited Sirketi | DE | Business | 0 | no |
 | 46.183.128.107.ovpn | 46.183.128.107 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
@@ -737,6 +738,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 76.83.158.167.ovpn | 76.83.158.167 | AS20001 | Charter Communications Inc | US | Business | 0 | no |
 | 58.3.221.254.ovpn | 58.3.221.254 | AS7679 | QTnet,Inc. | JP | Business | 0 | no |
 | 203.165.226.211.ovpn | 203.165.226.211 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
+| 220.122.141.202.ovpn | 220.122.141.202 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 133.123.77.238.ovpn | 133.123.77.238 | AS7522 | STNet, Incorporated | JP | Business | 0 | no |
 | 113.156.120.45.ovpn | 113.156.120.45 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 176.107.57.52.ovpn | 176.107.57.52 | AS49588 | SDS-Vostok Ltd. | UA | Business | 0 | no |
@@ -751,6 +753,8 @@ _Generated on: 2026-03-13 12:47:37_
 | 211.46.29.48.ovpn | 211.46.29.48 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 218.154.111.211.ovpn | 218.154.111.211 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.144.28.105.ovpn | 121.144.28.105 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 112.186.243.166.ovpn | 112.186.243.166 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 121.175.252.174.ovpn | 121.175.252.174 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
 | 49.228.102.155.ovpn | 49.228.102.155 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 59.11.159.211.ovpn | 59.11.159.211 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.197.30.95.ovpn | 211.197.30.95 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -768,7 +772,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 92.37.134.122.ovpn | 92.37.134.122 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 118.44.233.128.ovpn | 118.44.233.128 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 98.51.7.216.ovpn | 98.51.7.216 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
-| 124.18.75.77.ovpn | 124.18.75.77 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 101.140.222.23.ovpn | 101.140.222.23 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 183.180.156.116.ovpn | 183.180.156.116 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 14.32.216.31.ovpn | 14.32.216.31 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -801,7 +804,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 112.160.13.142.ovpn | 112.160.13.142 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 183.109.96.2.ovpn | 183.109.96.2 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 59.26.130.133.ovpn | 59.26.130.133 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 133.149.85.46.ovpn | 133.149.85.46 | AS9354 | Community Network Center Inc. | JP | Wireless | 0 | no |
 | 126.74.6.117.ovpn | 126.74.6.117 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 184.22.161.144.ovpn | 184.22.161.144 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 5.143.91.98.ovpn | 5.143.91.98 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -821,6 +823,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 113.22.116.105.ovpn | 113.22.116.105 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 182.165.181.74.ovpn | 182.165.181.74 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 175.121.99.208.ovpn | 175.121.99.208 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 220.150.150.117.ovpn | 220.150.150.117 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 220.78.29.248.ovpn | 220.78.29.248 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 59.20.234.15.ovpn | 59.20.234.15 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 95.32.165.38.ovpn | 95.32.165.38 | AS21017 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -839,6 +842,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 95.70.51.131.ovpn | 95.70.51.131 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 176.59.4.162.ovpn | 176.59.4.162 | AS15378 | T2 Mobile LLC | RU | Wireless | 0 | no |
 | 42.119.82.117.ovpn | 42.119.82.117 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
+| 118.156.251.210.ovpn | 118.156.251.210 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 126.117.100.225.ovpn | 126.117.100.225 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 183.81.124.246.ovpn | 183.81.124.246 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 138.64.98.12.ovpn | 138.64.98.12 | AS4685 | Asahi Net | JP | Business | 0 | no |
@@ -849,6 +853,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 106.130.54.144.ovpn | 106.130.54.144 | AS2516 | KDDI CORPORATION | JP | Wireless | 0 | no |
 | 89.31.38.236.ovpn | 89.31.38.236 | AS43148 | MTS PJSC | RU | Residential | 0 | no |
 | 1.54.176.154.ovpn | 1.54.176.154 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
+| 61.96.71.28.ovpn | 61.96.71.28 | AS45374 | CCS | KR | Business | 0 | no |
 | 58.95.72.44.ovpn | 58.95.72.44 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 49.49.236.9.ovpn | 49.49.236.9 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 49.228.222.146.ovpn | 49.228.222.146 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
@@ -879,6 +884,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 220.94.61.237.ovpn | 220.94.61.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 118.70.202.12.ovpn | 118.70.202.12 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 219.111.184.151.ovpn | 219.111.184.151 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
+| 103.51.249.151.ovpn | 103.51.249.151 | AS17849 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 82.215.98.19.ovpn | 82.215.98.19 | AS59668 | Turon Media XK | UZ | Business | 0 | no |
 | 184.22.226.100.ovpn | 184.22.226.100 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 175.108.218.15.ovpn | 175.108.218.15 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
@@ -897,13 +903,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 49.228.229.65.ovpn | 49.228.229.65 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.160.205.ovpn | 184.22.160.205 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 126.38.53.202.ovpn | 126.38.53.202 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
-| 212.164.65.205.ovpn | 212.164.65.205 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 203.249.184.56.ovpn | 203.249.184.56 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 176.226.205.100.ovpn | 176.226.205.100 | AS8369 | Intersvyaz-2 JSC | RU | Business | 0 | no |
 | 42.127.204.69.ovpn | 42.127.204.69 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
 | 121.149.214.207.ovpn | 121.149.214.207 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 177.226.74.50.ovpn | 177.226.74.50 | AS13999 | Mega Cable, S.A. de C.V. | MX | Residential | 0 | no |
 | 184.22.102.252.ovpn | 184.22.102.252 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 153.212.69.238.ovpn | 153.212.69.238 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 218.48.39.192.ovpn | 218.48.39.192 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 112.165.174.239.ovpn | 112.165.174.239 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 118.42.137.43.ovpn | 118.42.137.43 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -914,9 +920,9 @@ _Generated on: 2026-03-13 12:47:37_
 | 46.36.6.242.ovpn | 46.36.6.242 | AS48642 | Joint stock company "For" | RU | Business | 0 | no |
 | 114.186.11.117.ovpn | 114.186.11.117 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 213.87.102.245.ovpn | 213.87.102.245 | AS39811 | MTS PJSC | RU | Residential | 0 | no |
-| 58.121.28.21.ovpn | 58.121.28.21 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 219.102.216.89.ovpn | 219.102.216.89 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
 | 59.138.29.198.ovpn | 59.138.29.198 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
+| 171.4.220.218.ovpn | 171.4.220.218 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 121.136.23.201.ovpn | 121.136.23.201 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.179.126.205.ovpn | 211.179.126.205 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 95.27.234.10.ovpn | 95.27.234.10 | AS8402 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
@@ -945,6 +951,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 133.232.197.36.ovpn | 133.232.197.36 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
 | 211.114.52.200.ovpn | 211.114.52.200 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 221.145.88.114.ovpn | 221.145.88.114 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 210.100.229.165.ovpn | 210.100.229.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 223.204.217.244.ovpn | 223.204.217.244 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
 | 114.180.93.65.ovpn | 114.180.93.65 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 77.35.101.54.ovpn | 77.35.101.54 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -961,7 +968,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 126.110.43.151.ovpn | 126.110.43.151 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 221.144.186.211.ovpn | 221.144.186.211 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 49.228.40.51.ovpn | 49.228.40.51 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 184.22.100.182.ovpn | 184.22.100.182 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 1.33.60.235.ovpn | 1.33.60.235 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
 | 176.52.58.71.ovpn | 176.52.58.71 | AS29194 | MTS PJSC | RU | Residential | 0 | no |
 | 37.140.47.33.ovpn | 37.140.47.33 | AS8369 | Intersvyaz-2 JSC | RU | Business | 0 | no |
@@ -987,11 +993,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 49.229.230.32.ovpn | 49.229.230.32 | AS131445 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 218.235.148.209.ovpn | 218.235.148.209 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 118.38.91.191.ovpn | 118.38.91.191 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 222.116.131.96.ovpn | 222.116.131.96 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.175.104.111.ovpn | 121.175.104.111 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 95.27.106.90.ovpn | 95.27.106.90 | AS8402 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
 | 77.82.225.231.ovpn | 77.82.225.231 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 92.43.185.224.ovpn | 92.43.185.224 | AS8359 | MTS PJSC | RU | Residential | 0 | no |
 | 221.115.105.156.ovpn | 221.115.105.156 | AS17506 | ARTERIA Networks Corporation | JP | Residential | 0 | no |
+| 211.105.28.133.ovpn | 211.105.28.133 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 111.237.107.128.ovpn | 111.237.107.128 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 49.228.246.120.ovpn | 49.228.246.120 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 114.145.113.104.ovpn | 114.145.113.104 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
@@ -1009,6 +1017,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 211.51.176.193.ovpn | 211.51.176.193 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 111.168.165.242.ovpn | 111.168.165.242 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 220.84.72.219.ovpn | 220.84.72.219 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 59.27.8.199.ovpn | 59.27.8.199 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.229.190.ovpn | 184.22.229.190 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 171.4.235.77.ovpn | 171.4.235.77 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 46.147.149.107.ovpn | 46.147.149.107 | AS34590 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
@@ -1034,6 +1043,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 121.163.151.34.ovpn | 121.163.151.34 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.11.88.ovpn | 184.22.11.88 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 188.113.158.45.ovpn | 188.113.158.45 | AS51004 | Sakhalin Cable Telesystems Ltd | RU | Residential | 0 | no |
+| 111.94.160.81.ovpn | 111.94.160.81 | AS23700 | Linknet-Fastnet ASN | ID | Business | 0 | no |
 | 126.25.159.89.ovpn | 126.25.159.89 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 221.139.234.23.ovpn | 221.139.234.23 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 218.156.136.149.ovpn | 218.156.136.149 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1045,7 +1055,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 113.43.113.248.ovpn | 113.43.113.248 | AS17506 | ARTERIA Networks Corporation | JP | Residential | 0 | no |
 | 116.36.23.166.ovpn | 116.36.23.166 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
 | 118.35.76.142.ovpn | 118.35.76.142 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 220.57.108.136.ovpn | 220.57.108.136 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 184.22.103.141.ovpn | 184.22.103.141 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 46.53.180.103.ovpn | 46.53.180.103 | AS42772 | Unitary enterprise A1 | BY | Business | 0 | no |
 | 218.150.37.148.ovpn | 218.150.37.148 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1056,7 +1065,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 126.85.39.137.ovpn | 126.85.39.137 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 77.34.123.120.ovpn | 77.34.123.120 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.33.169.ovpn | 184.22.33.169 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 222.110.68.208.ovpn | 222.110.68.208 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 177.131.80.4.ovpn | 177.131.80.4 | AS28649 | Desktop Sigmanet Comunicação Multimídia SA | BR | Wireless | 0 | no |
 | 59.25.87.153.ovpn | 59.25.87.153 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 61.76.82.141.ovpn | 61.76.82.141 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1093,6 +1101,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 175.206.254.40.ovpn | 175.206.254.40 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 46.52.233.45.ovpn | 46.52.233.45 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 106.128.107.250.ovpn | 106.128.107.250 | AS2516 | KDDI CORPORATION | JP | Wireless | 0 | no |
+| 126.235.38.90.ovpn | 126.235.38.90 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 90.70.120.163.ovpn | 90.70.120.163 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 125.243.248.19.ovpn | 125.243.248.19 | AS9316 | DACOM-PUBNETPLUS | KR | Business | 0 | no |
 | 182.218.110.162.ovpn | 182.218.110.162 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
@@ -1136,7 +1145,9 @@ _Generated on: 2026-03-13 12:47:37_
 | 189.156.251.95.ovpn | 189.156.251.95 | AS8151 | Uninet S.A. de C.V. | MX | Residential | 0 | no |
 | 172.58.124.23.ovpn | 172.58.124.23 | AS21928 | T-Mobile USA, Inc. | US | Wireless | 0 | no |
 | 118.68.109.181.ovpn | 118.68.109.181 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
+| 202.233.49.241.ovpn | 202.233.49.241 | AS4675 | UNIADEX, LTD. | JP | Business | 0 | no |
 | 1.4.168.197.ovpn | 1.4.168.197 | AS23969 | TOT Public Company Limited | TH | Residential | 0 | no |
+| 92.203.159.128.ovpn | 92.203.159.128 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 126.94.134.97.ovpn | 126.94.134.97 | AS17676 | SoftBank Corp. | JP | Wireless | 0 | no |
 | 1.53.156.160.ovpn | 1.53.156.160 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 121.128.146.74.ovpn | 121.128.146.74 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1147,7 +1158,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.229.57.ovpn | 184.22.229.57 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 115.84.114.244.ovpn | 115.84.114.244 | AS9873 | Lao Telecommunication Public Company | LA | Residential | 0 | no |
 | 60.149.114.11.ovpn | 60.149.114.11 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
-| 114.19.144.13.ovpn | 114.19.144.13 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 42.113.73.253.ovpn | 42.113.73.253 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 1.53.140.245.ovpn | 1.53.140.245 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 49.228.96.198.ovpn | 49.228.96.198 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -1165,11 +1175,12 @@ _Generated on: 2026-03-13 12:47:37_
 | 1.55.18.93.ovpn | 1.55.18.93 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 90.9.51.103.ovpn | 90.9.51.103 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 70.95.182.216.ovpn | 70.95.182.216 | AS20001 | Charter Communications Inc | US | Business | 0 | no |
+| 125.130.8.249.ovpn | 125.130.8.249 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 118.176.253.87.ovpn | 118.176.253.87 | AS10036 | DLIVE | KR | Residential | 0 | no |
 | 77.34.35.25.ovpn | 77.34.35.25 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 219.254.250.231.ovpn | 219.254.250.231 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 59.16.169.151.ovpn | 59.16.169.151 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 182.213.69.54.ovpn | 182.213.69.54 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
+| 49.228.196.115.ovpn | 49.228.196.115 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 184.22.77.49.ovpn | 184.22.77.49 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 59.30.63.252.ovpn | 59.30.63.252 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 220.124.194.98.ovpn | 220.124.194.98 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1179,6 +1190,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 119.196.136.201.ovpn | 119.196.136.201 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 42.118.117.116.ovpn | 42.118.117.116 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 116.105.217.160.ovpn | 116.105.217.160 | AS24086 | Viettel Corporation | VN | Business | 0 | no |
+| 49.228.247.245.ovpn | 49.228.247.245 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 46.38.21.251.ovpn | 46.38.21.251 | AS20485 | Joint Stock Company TransTeleCom | RU | Business | 0 | no |
 | 121.66.204.164.ovpn | 121.66.204.164 | AS3786 | LG DACOM Corporation | KR | Business | 0 | no |
 | 124.49.34.46.ovpn | 124.49.34.46 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
@@ -1201,7 +1213,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 37.204.81.139.ovpn | 37.204.81.139 | AS42610 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 87.225.119.26.ovpn | 87.225.119.26 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 118.33.129.179.ovpn | 118.33.129.179 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 221.103.33.126.ovpn | 221.103.33.126 | AS17676 | SoftBank Corp. | JP | Wireless | 0 | no |
+| 180.57.68.159.ovpn | 180.57.68.159 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 42.116.41.96.ovpn | 42.116.41.96 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 49.228.107.135.ovpn | 49.228.107.135 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 153.151.195.190.ovpn | 153.151.195.190 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
@@ -1234,7 +1246,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 111.94.27.24.ovpn | 111.94.27.24 | AS23700 | Linknet-Fastnet ASN | ID | Business | 0 | no |
 | 77.34.115.91.ovpn | 77.34.115.91 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 119.172.157.90.ovpn | 119.172.157.90 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
-| 59.138.142.201.ovpn | 59.138.142.201 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 49.228.104.90.ovpn | 49.228.104.90 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 169.211.182.10.ovpn | 169.211.182.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 125.58.126.41.ovpn | 125.58.126.41 | AS17529 | STARCAT Co .,LTD. | JP | Business | 0 | no |
@@ -1283,8 +1294,9 @@ _Generated on: 2026-03-13 12:47:37_
 | 183.182.116.67.ovpn | 183.182.116.67 | AS131267 | Star Telecom | LA | Wireless | 0 | no |
 | 180.29.61.132.ovpn | 180.29.61.132 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 128.134.178.192.ovpn | 128.134.178.192 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 131.196.205.207.ovpn | 131.196.205.207 | AS265920 | NET LIDER LTDA ME | BR | Business | 0 | no |
+| 182.158.85.45.ovpn | 182.158.85.45 | AS4725 | SoftBank Corp. | JP | Business | 0 | no |
 | 116.127.151.137.ovpn | 116.127.151.137 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
+| 153.184.8.132.ovpn | 153.184.8.132 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 60.132.211.179.ovpn | 60.132.211.179 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 184.22.55.217.ovpn | 184.22.55.217 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 14.138.226.223.ovpn | 14.138.226.223 | AS10036 | DLIVE | KR | Business | 0 | no |
@@ -1297,6 +1309,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 62.231.119.14.ovpn | 62.231.119.14 | AS8708 | DIGI ROMANIA S.A. | RO | Business | 0 | no |
 | 114.199.14.136.ovpn | 114.199.14.136 | AS9781 | GREEN CABLE TELEVISION STATION | KR | Residential | 0 | no |
 | 111.97.165.77.ovpn | 111.97.165.77 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
+| 1.238.166.231.ovpn | 1.238.166.231 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 118.68.217.202.ovpn | 118.68.217.202 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 130.62.10.102.ovpn | 130.62.10.102 | AS55391 | INTERNET MULTIFEED CO. | JP | Business | 0 | no |
 | 201.34.59.68.ovpn | 201.34.59.68 | AS8167 | V tal | BR | Business | 0 | no |
@@ -1332,6 +1345,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 95.68.70.22.ovpn | 95.68.70.22 | AS12578 | SIA Tet | LV | Business | 0 | no |
 | 175.199.106.182.ovpn | 175.199.106.182 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 91.161.242.103.ovpn | 91.161.242.103 | AS12322 | Free SAS | FR | Residential | 0 | no |
+| 133.32.181.103.ovpn | 133.32.181.103 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 174.67.241.180.ovpn | 174.67.241.180 | AS22773 | Cox Communications Inc. | US | Business | 0 | no |
 | 31.129.6.81.ovpn | 31.129.6.81 | AS41789 | LLC Teledyne Systems Limited | RU | Business | 0 | no |
 | 46.233.224.242.ovpn | 46.233.224.242 | AS47165 | Omskie kabelnye seti Ltd. | RU | Residential | 0 | no |
@@ -1351,6 +1365,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 94.137.26.175.ovpn | 94.137.26.175 | AS47165 | Omskie kabelnye seti Ltd. | RU | Residential | 0 | no |
 | 184.22.167.148.ovpn | 184.22.167.148 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 133.32.226.38.ovpn | 133.32.226.38 | AS2519 | ARTERIA Networks Corporation | JP | Wireless | 0 | no |
+| 38.25.53.127.ovpn | 38.25.53.127 | AS265691 | WI-NET TELECOM S.A.C. | PE | Business | 0 | no |
 | 113.22.248.42.ovpn | 113.22.248.42 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 42.118.118.213.ovpn | 42.118.118.213 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 185.97.201.31.ovpn | 185.97.201.31 | AS39087 | P.A.K.T LLC | RU | Business | 0 | no |
@@ -1364,8 +1379,10 @@ _Generated on: 2026-03-13 12:47:37_
 | 87.225.43.167.ovpn | 87.225.43.167 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 49.109.25.121.ovpn | 49.109.25.121 | AS9605 | NTT DOCOMO, INC. | JP | Wireless | 0 | no |
 | 121.168.198.240.ovpn | 121.168.198.240 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 118.39.60.66.ovpn | 118.39.60.66 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 223.24.169.4.ovpn | 223.24.169.4 | AS132618 | True Move Company Limited | TH | Wireless | 0 | no |
 | 95.24.93.113.ovpn | 95.24.93.113 | AS8402 | PJSC "Vimpelcom" | RU | Residential | 0 | no |
+| 27.139.112.109.ovpn | 27.139.112.109 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 184.22.230.54.ovpn | 184.22.230.54 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.228.246.145.ovpn | 49.228.246.145 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 219.250.21.165.ovpn | 219.250.21.165 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
@@ -1381,11 +1398,9 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.222.2.ovpn | 184.22.222.2 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 111.91.152.168.ovpn | 111.91.152.168 | AS38673 | Korea Cable TV Kwangju Broadcasting | KR | Residential | 0 | no |
 | 121.104.177.123.ovpn | 121.104.177.123 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
-| 126.61.226.163.ovpn | 126.61.226.163 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.228.250.110.ovpn | 49.228.250.110 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 171.7.222.153.ovpn | 171.7.222.153 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 109.243.1.69.ovpn | 109.243.1.69 | AS39603 | P4 Sp. z o.o. | PL | Wireless | 0 | no |
-| 70.79.240.77.ovpn | 70.79.240.77 | AS6327 | Shaw Communications | CA | Residential | 0 | no |
 | 217.178.16.9.ovpn | 217.178.16.9 | AS55391 | INTERNET MULTIFEED CO. | JP | Business | 0 | no |
 | 126.46.63.63.ovpn | 126.46.63.63 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 79.17.44.63.ovpn | 79.17.44.63 | AS3269 | Telecom Italia S.p.A. | IT | Residential | 0 | no |
@@ -1400,6 +1415,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 5.166.122.81.ovpn | 5.166.122.81 | AS50512 | JSC "ER-Telecom Holding" | RU | Residential | 0 | no |
 | 88.206.64.126.ovpn | 88.206.64.126 | AS8369 | Intersvyaz-2 JSC | RU | Business | 0 | no |
 | 126.235.159.35.ovpn | 126.235.159.35 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
+| 184.22.253.21.ovpn | 184.22.253.21 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 210.178.48.72.ovpn | 210.178.48.72 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 86.193.87.4.ovpn | 86.193.87.4 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 61.84.70.203.ovpn | 61.84.70.203 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1473,9 +1489,10 @@ _Generated on: 2026-03-13 12:47:37_
 | 212.164.38.222.ovpn | 212.164.38.222 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 46.172.212.111.ovpn | 46.172.212.111 | AS48330 | FOP Sinev Maksim Viktorovich | RU | Business | 0 | no |
 | 49.228.226.155.ovpn | 49.228.226.155 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 222.14.30.197.ovpn | 222.14.30.197 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
+| 113.22.36.1.ovpn | 113.22.36.1 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 126.26.180.174.ovpn | 126.26.180.174 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.228.121.188.ovpn | 49.228.121.188 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 79.105.163.114.ovpn | 79.105.163.114 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 59.8.143.10.ovpn | 59.8.143.10 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 59.142.142.120.ovpn | 59.142.142.120 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 14.57.186.208.ovpn | 14.57.186.208 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1525,6 +1542,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.229.29.ovpn | 184.22.229.29 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 103.195.6.61.ovpn | 103.195.6.61 | AS64022 | Kamatera, Inc. | HK | Business | 0 | no |
 | 210.231.31.100.ovpn | 210.231.31.100 | AS4725 | SoftBank Corp. | JP | Business | 0 | no |
+| 61.75.47.232.ovpn | 61.75.47.232 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 79.37.236.66.ovpn | 79.37.236.66 | AS3269 | Telecom Italia S.p.A. | IT | Residential | 0 | no |
 | 49.228.176.121.ovpn | 49.228.176.121 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 211.227.182.19.ovpn | 211.227.182.19 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1552,6 +1570,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 183.77.170.61.ovpn | 183.77.170.61 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 46.100.43.199.ovpn | 46.100.43.199 | AS58224 | Iran Telecommunication Company PJS | IR | Business | 0 | no |
 | 175.177.48.52.ovpn | 175.177.48.52 | AS9365 | its communications Inc. | JP | Business | 0 | no |
+| 92.125.139.52.ovpn | 92.125.139.52 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 2.61.160.16.ovpn | 2.61.160.16 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 223.207.226.26.ovpn | 223.207.226.26 | AS45758 | Triple T Broadband Public Company Limited | TH | Wireless | 0 | no |
 | 218.228.223.142.ovpn | 218.228.223.142 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
@@ -1582,10 +1601,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 77.34.29.2.ovpn | 77.34.29.2 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.227.195.ovpn | 184.22.227.195 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 49.49.238.183.ovpn | 49.49.238.183 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
+| 85.164.83.114.ovpn | 85.164.83.114 | AS2119 | Telenor Norge AS | NO | Residential | 0 | no |
 | 77.35.175.152.ovpn | 77.35.175.152 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 118.218.115.153.ovpn | 118.218.115.153 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 49.49.229.204.ovpn | 49.49.229.204 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
+| 211.179.111.116.ovpn | 211.179.111.116 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 39.111.215.189.ovpn | 39.111.215.189 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
+| 222.107.100.245.ovpn | 222.107.100.245 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 42.115.78.237.ovpn | 42.115.78.237 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 46.183.131.9.ovpn | 46.183.131.9 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
 | 118.33.207.237.ovpn | 118.33.207.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1604,7 +1626,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 115.23.248.31.ovpn | 115.23.248.31 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 185.2.184.133.ovpn | 185.2.184.133 | AS21191 | Joint Stock Company TransTeleCom | RU | Residential | 0 | no |
 | 119.207.188.158.ovpn | 119.207.188.158 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 152.165.80.153.ovpn | 152.165.80.153 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 188.113.153.70.ovpn | 188.113.153.70 | AS51004 | Sakhalin Cable Telesystems Ltd | RU | Residential | 0 | no |
 | 182.53.204.180.ovpn | 182.53.204.180 | AS23969 | TOT Public Company Limited | TH | Residential | 0 | no |
 | 1.236.61.43.ovpn | 1.236.61.43 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
@@ -1617,6 +1638,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 116.127.239.34.ovpn | 116.127.239.34 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 60.237.54.218.ovpn | 60.237.54.218 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 164.138.90.118.ovpn | 164.138.90.118 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
+| 157.65.246.249.ovpn | 157.65.246.249 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
 | 59.175.154.112.ovpn | 59.175.154.112 | AS4134 | Chinanet | CN | Business | 0 | no |
 | 91.220.87.119.ovpn | 91.220.87.119 | AS33991 | Igra-Service LLC | RU | Business | 0 | no |
 | 122.145.54.149.ovpn | 122.145.54.149 | AS7522 | STNet, Incorporated | JP | Business | 0 | no |
@@ -1624,7 +1646,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 180.198.56.236.ovpn | 180.198.56.236 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 106.246.212.107.ovpn | 106.246.212.107 | AS3786 | LG DACOM Corporation | KR | Business | 0 | no |
 | 5.138.133.25.ovpn | 5.138.133.25 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
-| 106.244.202.130.ovpn | 106.244.202.130 | AS3786 | LG DACOM Corporation | KR | Business | 0 | no |
 | 125.102.114.92.ovpn | 125.102.114.92 | AS17506 | ARTERIA Networks Corporation | JP | Residential | 0 | no |
 | 183.96.163.98.ovpn | 183.96.163.98 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 102.41.154.140.ovpn | 102.41.154.140 | AS8452 | TE-AS | EG | Business | 0 | no |
@@ -1653,13 +1674,12 @@ _Generated on: 2026-03-13 12:47:37_
 | 211.218.21.105.ovpn | 211.218.21.105 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 202.250.70.11.ovpn | 202.250.70.11 | AS2907 | Research Organization of Information and Systems, National Institute of Informa | JP | Business | 0 | no |
 | 42.118.112.239.ovpn | 42.118.112.239 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
-| 220.77.9.35.ovpn | 220.77.9.35 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 126.48.175.140.ovpn | 126.48.175.140 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.228.235.34.ovpn | 49.228.235.34 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 178.46.80.45.ovpn | 178.46.80.45 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.68.66.ovpn | 184.22.68.66 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 118.106.9.46.ovpn | 118.106.9.46 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 221.164.249.177.ovpn | 221.164.249.177 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 175.100.132.59.ovpn | 175.100.132.59 | AS18207 | YOU Broadband & Cable India Ltd. | IN | Residential | 0 | no |
 | 27.119.105.134.ovpn | 27.119.105.134 | AS23563 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 92.43.185.214.ovpn | 92.43.185.214 | AS8359 | MTS PJSC | RU | Residential | 0 | no |
 | 176.208.32.155.ovpn | 176.208.32.155 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -1673,6 +1693,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 153.167.223.173.ovpn | 153.167.223.173 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 184.22.20.195.ovpn | 184.22.20.195 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 112.168.209.233.ovpn | 112.168.209.233 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 115.39.101.57.ovpn | 115.39.101.57 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 119.172.135.156.ovpn | 119.172.135.156 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 121.167.189.126.ovpn | 121.167.189.126 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 118.71.115.10.ovpn | 118.71.115.10 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
@@ -1686,12 +1707,14 @@ _Generated on: 2026-03-13 12:47:37_
 | 150.31.35.244.ovpn | 150.31.35.244 | AS2497 | Internet Initiative Japan Inc. | JP | Business | 0 | no |
 | 86.108.33.181.ovpn | 86.108.33.181 | AS8376 | Jordan Data Communications Company LLC | JO | Wireless | 0 | no |
 | 220.117.8.50.ovpn | 220.117.8.50 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 112.186.151.168.ovpn | 112.186.151.168 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 61.80.8.67.ovpn | 61.80.8.67 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 80.14.238.254.ovpn | 80.14.238.254 | AS3215 | Orange S.A. | FR | Residential | 0 | no |
 | 176.72.144.111.ovpn | 176.72.144.111 | AS1759 | Telia Finland Oyj | FI | Residential | 0 | no |
 | 42.148.36.223.ovpn | 42.148.36.223 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 218.41.143.69.ovpn | 218.41.143.69 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 94.245.146.133.ovpn | 94.245.146.133 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 183.182.116.222.ovpn | 183.182.116.222 | AS131267 | Star Telecom | LA | Wireless | 0 | no |
 | 184.22.105.55.ovpn | 184.22.105.55 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 184.22.16.115.ovpn | 184.22.16.115 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 118.153.64.72.ovpn | 118.153.64.72 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
@@ -1701,29 +1724,27 @@ _Generated on: 2026-03-13 12:47:37_
 | 114.161.222.125.ovpn | 114.161.222.125 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 125.11.100.23.ovpn | 125.11.100.23 | AS9824 | JCOM Co., Ltd. | JP | Wireless | 0 | no |
 | 95.152.33.94.ovpn | 95.152.33.94 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
-| 59.168.176.131.ovpn | 59.168.176.131 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
+| 211.46.226.67.ovpn | 211.46.226.67 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.141.100.107.ovpn | 121.141.100.107 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 182.21.214.41.ovpn | 182.21.214.41 | AS10010 | TOKAI Communications Corporation | JP | Business | 0 | no |
 | 114.206.206.178.ovpn | 114.206.206.178 | AS9318 | SK Broadband Co Ltd | KR | Wireless | 0 | no |
 | 211.198.149.195.ovpn | 211.198.149.195 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 111.94.191.133.ovpn | 111.94.191.133 | AS23700 | Linknet-Fastnet ASN | ID | Business | 0 | no |
 | 203.243.55.165.ovpn | 203.243.55.165 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 42.114.29.214.ovpn | 42.114.29.214 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 49.228.238.57.ovpn | 49.228.238.57 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 220.95.21.4.ovpn | 220.95.21.4 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.33.54.ovpn | 184.22.33.54 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 211.221.198.244.ovpn | 211.221.198.244 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 46.37.129.99.ovpn | 46.37.129.99 | AS42038 | Krivets Sergey Sergeevich | RU | Residential | 0 | no |
 | 59.14.245.136.ovpn | 59.14.245.136 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.171.242.137.ovpn | 121.171.242.137 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 121.172.192.116.ovpn | 121.172.192.116 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 133.203.3.237.ovpn | 133.203.3.237 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 82.162.121.127.ovpn | 82.162.121.127 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
-| 126.3.243.126.ovpn | 126.3.243.126 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.204.137.17.ovpn | 49.204.137.17 | AS24309 | Atria Convergence Technologies Pvt. Ltd., | IN | Residential | 0 | no |
 | 49.228.42.57.ovpn | 49.228.42.57 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 24.126.13.169.ovpn | 24.126.13.169 | AS7922 | Comcast Cable Communications, LLC | US | Residential | 0 | no |
 | 49.228.225.4.ovpn | 49.228.225.4 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 14.32.90.146.ovpn | 14.32.90.146 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.10.245.ovpn | 184.22.10.245 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 118.70.26.234.ovpn | 118.70.26.234 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
 | 77.34.241.76.ovpn | 77.34.241.76 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -1753,11 +1774,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 1.4.170.207.ovpn | 1.4.170.207 | AS23969 | TOT Public Company Limited | TH | Residential | 0 | no |
 | 27.140.89.119.ovpn | 27.140.89.119 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 59.13.17.114.ovpn | 59.13.17.114 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 101.1.216.114.ovpn | 101.1.216.114 | AS7522 | STNet, Incorporated | JP | Business | 0 | no |
 | 96.51.225.116.ovpn | 96.51.225.116 | AS6327 | Shaw Communications | CA | Residential | 0 | no |
 | 183.176.42.137.ovpn | 183.176.42.137 | AS7522 | STNet, Incorporated | JP | Business | 0 | no |
 | 118.41.96.37.ovpn | 118.41.96.37 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 223.133.9.163.ovpn | 223.133.9.163 | AS2527 | Sony Network Communications Inc. | JP | Business | 0 | no |
 | 184.22.34.169.ovpn | 184.22.34.169 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
+| 138.64.66.162.ovpn | 138.64.66.162 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 59.2.145.177.ovpn | 59.2.145.177 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.195.33.137.ovpn | 211.195.33.137 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 184.22.101.61.ovpn | 184.22.101.61 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -1774,7 +1797,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 164.138.90.84.ovpn | 164.138.90.84 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
 | 36.12.183.242.ovpn | 36.12.183.242 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 173.24.175.184.ovpn | 173.24.175.184 | AS30036 | Mediacom Communications Corp | US | Business | 0 | no |
-| 112.70.175.182.ovpn | 112.70.175.182 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
 | 171.4.233.61.ovpn | 171.4.233.61 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
 | 14.43.226.230.ovpn | 14.43.226.230 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 183.103.199.108.ovpn | 183.103.199.108 | AS4766 | Korea Telecom | KR | Wireless | 0 | no |
@@ -1786,6 +1808,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 27.82.151.86.ovpn | 27.82.151.86 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
 | 79.105.126.188.ovpn | 79.105.126.188 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 85.93.49.249.ovpn | 85.93.49.249 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 111.95.151.9.ovpn | 111.95.151.9 | AS23700 | Linknet-Fastnet ASN | ID | Business | 0 | no |
 | 222.110.199.129.ovpn | 222.110.199.129 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 59.3.123.93.ovpn | 59.3.123.93 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 37.78.205.151.ovpn | 37.78.205.151 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
@@ -1796,13 +1819,13 @@ _Generated on: 2026-03-13 12:47:37_
 | 118.42.152.211.ovpn | 118.42.152.211 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 1.224.30.13.ovpn | 1.224.30.13 | AS17846 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 58.239.213.120.ovpn | 58.239.213.120 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
+| 1.55.162.134.ovpn | 1.55.162.134 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 183.107.162.172.ovpn | 183.107.162.172 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 46.38.15.87.ovpn | 46.38.15.87 | AS20485 | Joint Stock Company TransTeleCom | RU | Business | 0 | no |
-| 180.220.93.133.ovpn | 180.220.93.133 | AS9617 | JCOM Co., Ltd. | JP | Wireless | 0 | no |
 | 126.51.75.230.ovpn | 126.51.75.230 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 220.73.241.82.ovpn | 220.73.241.82 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 164.138.93.235.ovpn | 164.138.93.235 | AS8749 | JSC "Redcom-lnternet" | RU | Residential | 0 | no |
 | 118.155.140.137.ovpn | 118.155.140.137 | AS2516 | KDDI CORPORATION | JP | Business | 0 | no |
+| 126.120.169.173.ovpn | 126.120.169.173 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 184.22.159.57.ovpn | 184.22.159.57 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 91.220.250.209.ovpn | 91.220.250.209 | AS49711 | Flynet Ltd | BY | Business | 0 | no |
 | 113.184.49.153.ovpn | 113.184.49.153 | AS45899 | VNPT Corp | VN | Residential | 0 | no |
@@ -1832,11 +1855,11 @@ _Generated on: 2026-03-13 12:47:37_
 | 2.61.21.48.ovpn | 2.61.21.48 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.54.37.ovpn | 184.22.54.37 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 37.79.44.99.ovpn | 37.79.44.99 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
-| 118.158.191.108.ovpn | 118.158.191.108 | AS2516 | KDDI CORPORATION | JP | Wireless | 0 | no |
 | 61.79.124.41.ovpn | 61.79.124.41 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 211.178.229.46.ovpn | 211.178.229.46 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
 | 133.32.173.168.ovpn | 133.32.173.168 | AS2519 | ARTERIA Networks Corporation | JP | Business | 0 | no |
 | 112.68.199.176.ovpn | 112.68.199.176 | AS17511 | OPTAGE Inc. | JP | Business | 0 | no |
+| 59.28.226.92.ovpn | 59.28.226.92 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 42.114.126.130.ovpn | 42.114.126.130 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 118.40.24.58.ovpn | 118.40.24.58 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 222.111.59.91.ovpn | 222.111.59.91 | AS4766 | Korea Telecom | KR | Business | 0 | no |
@@ -1868,6 +1891,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 121.143.255.147.ovpn | 121.143.255.147 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 182.217.139.187.ovpn | 182.217.139.187 | AS17858 | LG POWERCOMM | KR | Business | 0 | no |
 | 213.110.254.220.ovpn | 213.110.254.220 | AS50022 | Kristelecom Ltd. | RU | Business | 0 | no |
+| 101.176.82.220.ovpn | 101.176.82.220 | AS1221 | Telstra Limited | AU | Business | 0 | no |
 | 220.93.68.5.ovpn | 220.93.68.5 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 183.97.174.67.ovpn | 183.97.174.67 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 134.236.32.172.ovpn | 134.236.32.172 | AS131090 | National Telecom Public Company Limited | TH | Business | 0 | no |
@@ -1896,17 +1920,18 @@ _Generated on: 2026-03-13 12:47:37_
 | 184.22.8.154.ovpn | 184.22.8.154 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 122.248.108.4.ovpn | 122.248.108.4 | AS131322 | Yatanarpon Teleport Company Limited | MM | Wireless | 0 | no |
 | 126.12.119.246.ovpn | 126.12.119.246 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
-| 126.227.32.60.ovpn | 126.227.32.60 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 49.228.246.88.ovpn | 49.228.246.88 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 125.198.46.138.ovpn | 125.198.46.138 | AS2518 | BIGLOBE Inc. | JP | Business | 0 | no |
 | 125.243.235.217.ovpn | 125.243.235.217 | AS9316 | DACOM-PUBNETPLUS | KR | Business | 0 | no |
 | 49.228.105.15.ovpn | 49.228.105.15 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
 | 180.196.171.116.ovpn | 180.196.171.116 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 61.255.91.50.ovpn | 61.255.91.50 | AS9318 | SK Broadband Co Ltd | KR | Residential | 0 | no |
+| 220.122.151.126.ovpn | 220.122.151.126 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 124.142.89.198.ovpn | 124.142.89.198 | AS9824 | JCOM Co., Ltd. | JP | Business | 0 | no |
 | 121.185.42.127.ovpn | 121.185.42.127 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 115.36.68.30.ovpn | 115.36.68.30 | AS18126 | Chubu Telecommunications Company, Inc. | JP | Business | 0 | no |
 | 31.162.20.180.ovpn | 31.162.20.180 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
+| 61.77.207.247.ovpn | 61.77.207.247 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 138.64.234.169.ovpn | 138.64.234.169 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 175.177.49.60.ovpn | 175.177.49.60 | AS9365 | its communications Inc. | JP | Wireless | 0 | no |
 | 184.22.22.189.ovpn | 184.22.22.189 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
@@ -1914,6 +1939,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 77.35.215.221.ovpn | 77.35.215.221 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 138.64.100.174.ovpn | 138.64.100.174 | AS4685 | Asahi Net | JP | Business | 0 | no |
 | 182.232.31.25.ovpn | 182.232.31.25 | AS131445 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Wireless | 0 | no |
+| 218.152.229.53.ovpn | 218.152.229.53 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 125.9.108.163.ovpn | 125.9.108.163 | AS9824 | JCOM Co., Ltd. | JP | Wireless | 0 | no |
 | 222.104.241.29.ovpn | 222.104.241.29 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 223.205.83.244.ovpn | 223.205.83.244 | AS45758 | Triple T Broadband Public Company Limited | TH | Residential | 0 | no |
@@ -1938,16 +1964,15 @@ _Generated on: 2026-03-13 12:47:37_
 | 188.209.66.8.ovpn | 188.209.66.8 | AS58224 | Iran Telecommunication Company PJS | IR | Business | 0 | no |
 | 42.82.124.231.ovpn | 42.82.124.231 | AS9845 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 168.126.215.237.ovpn | 168.126.215.237 | AS4766 | Korea Telecom | KR | Business | 0 | no |
+| 118.220.180.222.ovpn | 118.220.180.222 | AS9318 | SK Broadband Co Ltd | KR | Business | 0 | no |
 | 1.53.42.213.ovpn | 1.53.42.213 | AS18403 | FPT Telecom Company | VN | Business | 0 | no |
 | 126.126.140.23.ovpn | 126.126.140.23 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 113.22.158.70.ovpn | 113.22.158.70 | AS18403 | FPT Telecom Company | VN | Residential | 0 | no |
-| 118.99.75.166.ovpn | 118.99.75.166 | AS17451 | BIZNET NETWORKS | ID | Business | 0 | no |
 | 120.136.83.120.ovpn | 120.136.83.120 | AS9698 | LG HelloVision Corp. | KR | Business | 0 | no |
 | 218.159.1.213.ovpn | 218.159.1.213 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 180.19.106.57.ovpn | 180.19.106.57 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 92.126.116.147.ovpn | 92.126.116.147 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 184.22.53.216.ovpn | 184.22.53.216 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
-| 59.129.41.98.ovpn | 59.129.41.98 | AS2516 | KDDI CORPORATION | JP | Wireless | 0 | no |
 | 49.228.97.142.ovpn | 49.228.97.142 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 37.23.255.139.ovpn | 37.23.255.139 | AS12389 | PJSC Rostelecom | RU | Residential | 0 | no |
 | 202.157.191.239.ovpn | 202.157.191.239 | AS136210 | IT Spectrum Company Limited | MM | Business | 0 | no |
@@ -1955,6 +1980,7 @@ _Generated on: 2026-03-13 12:47:37_
 | 118.6.192.210.ovpn | 118.6.192.210 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
 | 157.65.227.151.ovpn | 157.65.227.151 | AS2514 | NTT PC Communications, Inc. | JP | Business | 0 | no |
 | 153.144.237.183.ovpn | 153.144.237.183 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
+| 182.172.123.86.ovpn | 182.172.123.86 | AS10036 | DLIVE | KR | Business | 0 | no |
 | 162.0.155.10.ovpn | 162.0.155.10 | AS397961 | Government Information Technology Services Limited | LC | Business | 0 | no |
 | 49.228.69.85.ovpn | 49.228.69.85 | AS133481 | ADVANCED WIRELESS NETWORK COMPANY LIMITED | TH | Residential | 0 | no |
 | 153.189.61.120.ovpn | 153.189.61.120 | AS4713 | NTT Communications Corporation | JP | Business | 0 | no |
@@ -1969,7 +1995,6 @@ _Generated on: 2026-03-13 12:47:37_
 | 133.155.202.104.ovpn | 133.155.202.104 | AS7524 | ITEC HANKYU HANSHIN CO.,LTD. | JP | Business | 0 | no |
 | 61.83.252.16.ovpn | 61.83.252.16 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 | 61.85.140.96.ovpn | 61.85.140.96 | AS4766 | Korea Telecom | KR | Business | 0 | no |
-| 126.207.73.111.ovpn | 126.207.73.111 | AS17676 | SoftBank Corp. | JP | Business | 0 | no |
 | 221.149.67.134.ovpn | 221.149.67.134 | AS4766 | Korea Telecom | KR | Business | 0 | no |
 
 **Full JSON:** See [report.json](./report.json)
