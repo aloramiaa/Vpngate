@@ -1,4 +1,8 @@
 ## Latest VPNGate Reports
+- [Markdown Report](reports/IPs_No_Proxy_20260422_020633.md)
+- [HTML Index](html/index_20260422_020633.html)
+
+## Latest VPNGate Reports
 - [Markdown Report](reports/IPs_No_Proxy_20260421_190520.md)
 - [HTML Index](html/index_20260421_190520.html)
 
