@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 7754,
-    "clean": 7754,
+    "total": 7759,
+    "clean": 7759,
     "flagged": 0
   },
   "records": [
@@ -26096,6 +26096,16 @@
       "proxy": "N/A"
     },
     {
+      "file": "85.143.93.155.ovpn",
+      "ip": "85.143.93.155",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
       "file": "125.14.139.60.ovpn",
       "ip": "125.14.139.60",
       "asn": "N/A",
@@ -39858,6 +39868,16 @@
     {
       "file": "218.155.56.22.ovpn",
       "ip": "218.155.56.22",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
+      "file": "222.104.86.61.ovpn",
+      "ip": "222.104.86.61",
       "asn": "N/A",
       "provider": "N/A",
       "country": "N/A",
@@ -65596,6 +65616,16 @@
       "proxy": "N/A"
     },
     {
+      "file": "118.18.206.197.ovpn",
+      "ip": "118.18.206.197",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
       "file": "14.32.224.176.ovpn",
       "ip": "14.32.224.176",
       "asn": "N/A",
@@ -69548,6 +69578,16 @@
     {
       "file": "211.228.101.189.ovpn",
       "ip": "211.228.101.189",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
+      "file": "110.67.178.96.ovpn",
+      "ip": "110.67.178.96",
       "asn": "N/A",
       "provider": "N/A",
       "country": "N/A",
@@ -74168,6 +74208,16 @@
     {
       "file": "58.188.113.201.ovpn",
       "ip": "58.188.113.201",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
+      "file": "112.137.229.216.ovpn",
+      "ip": "112.137.229.216",
       "asn": "N/A",
       "provider": "N/A",
       "country": "N/A",
