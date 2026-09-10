@@ -1,19 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260909_201847.md)
-- [HTML Index](html/index_20260909_201847.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260909_154819.md)
-- [HTML Index](html/index_20260909_154819.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260909_103922.md)
-- [HTML Index](html/index_20260909_103922.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2026-09-09 02:45:12_
+_Generated on: 2026-09-10 02:46:36_
 
-**Summary:** ✅ 6663 clean | 🚫 0 flagged | 🔍 6663 total
+**Summary:** ✅ 6671 clean | 🚫 0 flagged | 🔍 6671 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -1237,6 +1225,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 176.50.12.29.ovpn | 176.50.12.29 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 95.70.122.57.ovpn | 95.70.122.57 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 86.193.87.4.ovpn | 86.193.87.4 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 106.245.198.121.ovpn | 106.245.198.121 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 222.118.35.56.ovpn | 222.118.35.56 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 121.183.246.237.ovpn | 121.183.246.237 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 42.118.89.12.ovpn | 42.118.89.12 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -1258,6 +1247,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 58.186.70.247.ovpn | 58.186.70.247 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 219.102.111.206.ovpn | 219.102.111.206 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 220.212.128.101.ovpn | 220.212.128.101 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 49.109.125.214.ovpn | 49.109.125.214 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 157.147.232.160.ovpn | 157.147.232.160 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 1.21.49.121.ovpn | 1.21.49.121 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 128.28.135.165.ovpn | 128.28.135.165 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -2515,6 +2505,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 5.143.106.176.ovpn | 5.143.106.176 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 49.228.107.135.ovpn | 49.228.107.135 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 222.108.163.196.ovpn | 222.108.163.196 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 77.82.105.170.ovpn | 77.82.105.170 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 180.199.179.120.ovpn | 180.199.179.120 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 14.47.24.87.ovpn | 14.47.24.87 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 184.22.11.88.ovpn | 184.22.11.88 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -3032,6 +3023,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 61.75.115.245.ovpn | 61.75.115.245 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 125.199.110.186.ovpn | 125.199.110.186 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 77.34.115.28.ovpn | 77.34.115.28 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 143.189.226.118.ovpn | 143.189.226.118 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 222.146.226.30.ovpn | 222.146.226.30 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 220.208.123.22.ovpn | 220.208.123.22 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 49.228.241.61.ovpn | 49.228.241.61 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -3562,6 +3554,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 221.151.163.51.ovpn | 221.151.163.51 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 77.35.95.94.ovpn | 77.35.95.94 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 46.42.149.37.ovpn | 46.42.149.37 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 178.155.51.174.ovpn | 178.155.51.174 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 112.220.133.60.ovpn | 112.220.133.60 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 118.71.220.236.ovpn | 118.71.220.236 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 184.22.20.205.ovpn | 184.22.20.205 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -5056,6 +5049,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 95.105.69.21.ovpn | 95.105.69.21 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 219.73.50.95.ovpn | 219.73.50.95 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 185.3.183.13.ovpn | 185.3.183.13 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 211.226.24.26.ovpn | 211.226.24.26 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 220.127.201.14.ovpn | 220.127.201.14 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 49.228.222.146.ovpn | 49.228.222.146 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 175.177.49.116.ovpn | 175.177.49.116 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -5115,6 +5109,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 126.203.174.233.ovpn | 126.203.174.233 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 24.18.119.111.ovpn | 24.18.119.111 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 49.228.108.227.ovpn | 49.228.108.227 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 77.79.18.229.ovpn | 77.79.18.229 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 14.36.23.41.ovpn | 14.36.23.41 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 153.190.35.192.ovpn | 153.190.35.192 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 219.107.212.207.ovpn | 219.107.212.207 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -6514,6 +6509,7 @@ _Generated on: 2026-09-09 02:45:12_
 | 183.96.103.177.ovpn | 183.96.103.177 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 59.142.152.55.ovpn | 59.142.152.55 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 121.139.70.25.ovpn | 121.139.70.25 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 95.189.77.86.ovpn | 95.189.77.86 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 49.228.97.26.ovpn | 49.228.97.26 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 121.170.31.218.ovpn | 121.170.31.218 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 94.245.145.31.ovpn | 94.245.145.31 | N/A | N/A | N/A | N/A | N/A | N/A |
