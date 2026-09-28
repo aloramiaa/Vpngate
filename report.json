@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 6776,
-    "clean": 6776,
+    "total": 6778,
+    "clean": 6778,
     "flagged": 0
   },
   "records": [
@@ -11738,6 +11738,16 @@
     {
       "file": "112.68.199.176.ovpn",
       "ip": "112.68.199.176",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
+      "file": "59.135.173.211.ovpn",
+      "ip": "59.135.173.211",
       "asn": "N/A",
       "provider": "N/A",
       "country": "N/A",
@@ -31218,6 +31228,16 @@
     {
       "file": "14.8.222.34.ovpn",
       "ip": "14.8.222.34",
+      "asn": "N/A",
+      "provider": "N/A",
+      "country": "N/A",
+      "risk": "N/A",
+      "type": "N/A",
+      "proxy": "N/A"
+    },
+    {
+      "file": "210.105.87.149.ovpn",
+      "ip": "210.105.87.149",
       "asn": "N/A",
       "provider": "N/A",
       "country": "N/A",

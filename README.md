@@ -1,23 +1,7 @@
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260927_204458.md)
-- [HTML Index](html/index_20260927_204458.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260927_161601.md)
-- [HTML Index](html/index_20260927_161601.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260927_111530.md)
-- [HTML Index](html/index_20260927_111530.html)
-
-## Latest VPNGate Reports
-- [Markdown Report](reports/IPs_No_Proxy_20260927_031745.md)
-- [HTML Index](html/index_20260927_031745.html)
-
 # 🚀 VPNGate Config Report
-_Generated on: 2026-09-27 03:15:33_
+_Generated on: 2026-09-28 03:13:34_
 
-**Summary:** ✅ 6776 clean | 🚫 0 flagged | 🔍 6776 total
+**Summary:** ✅ 6778 clean | 🚫 0 flagged | 🔍 6778 total
 
 ## Details (excluding detected proxies)
 | File | IP | ASN | Provider | Country | Type | Risk | Proxy |
@@ -1196,6 +1180,7 @@ _Generated on: 2026-09-27 03:15:33_
 | 222.238.169.187.ovpn | 222.238.169.187 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 86.102.211.191.ovpn | 86.102.211.191 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 112.68.199.176.ovpn | 112.68.199.176 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 59.135.173.211.ovpn | 59.135.173.211 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 2.61.162.148.ovpn | 2.61.162.148 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 153.211.7.23.ovpn | 153.211.7.23 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 220.93.185.106.ovpn | 220.93.185.106 | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -3144,6 +3129,7 @@ _Generated on: 2026-09-27 03:15:33_
 | 118.241.135.64.ovpn | 118.241.135.64 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 184.22.107.140.ovpn | 184.22.107.140 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 14.8.222.34.ovpn | 14.8.222.34 | N/A | N/A | N/A | N/A | N/A | N/A |
+| 210.105.87.149.ovpn | 210.105.87.149 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 111.111.41.24.ovpn | 111.111.41.24 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 133.106.32.10.ovpn | 133.106.32.10 | N/A | N/A | N/A | N/A | N/A | N/A |
 | 5.3.187.235.ovpn | 5.3.187.235 | N/A | N/A | N/A | N/A | N/A | N/A |
